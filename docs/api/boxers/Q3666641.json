@@ -1,0 +1,16 @@
+{
+  "id": "Q3666641",
+  "name": "Charley Fusari",
+  "date_of_birth": "1924-08-20",
+  "date_of_death": "1985-11-04",
+  "gender": "male",
+  "countries": [
+    "United States",
+    "Italy",
+    "Kingdom of Italy"
+  ],
+  "birthplace": "Alcamo",
+  "height_cm": 178,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charley%20Fusari%201951.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q3666641"
+}

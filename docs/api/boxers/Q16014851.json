@@ -1,0 +1,14 @@
+{
+  "id": "Q16014851",
+  "name": "Bob Dunlop",
+  "date_of_birth": "1945-05-24",
+  "date_of_death": "2000-01-01",
+  "gender": "male",
+  "countries": [
+    "Australia"
+  ],
+  "birthplace": "Ivanhoe",
+  "height_cm": null,
+  "image": null,
+  "wikidata_url": "http://www.wikidata.org/entity/Q16014851"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q5340120",
+  "name": "Edner Cherry",
+  "date_of_birth": "1982-07-21",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "The Bahamas",
+    "Haiti"
+  ],
+  "birthplace": "Nassau",
+  "height_cm": null,
+  "image": null,
+  "wikidata_url": "http://www.wikidata.org/entity/Q5340120"
+}

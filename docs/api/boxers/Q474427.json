@@ -1,0 +1,15 @@
+{
+  "id": "Q474427",
+  "name": "Francesco Pianeta",
+  "date_of_birth": "1984-10-08",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "Italy",
+    "Germany"
+  ],
+  "birthplace": "Corigliano Calabro",
+  "height_cm": 196,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Pianeta.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q474427"
+}

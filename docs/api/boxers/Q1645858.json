@@ -1,0 +1,14 @@
+{
+  "id": "Q1645858",
+  "name": "Kid Lavigne",
+  "date_of_birth": "1869-12-06",
+  "date_of_death": "1928-03-09",
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "Chicago",
+  "height_cm": 161,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/KidLavigne.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q1645858"
+}

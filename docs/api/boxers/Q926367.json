@@ -1,0 +1,14 @@
+{
+  "id": "Q926367",
+  "name": "Rocky Kansas",
+  "date_of_birth": "1893-04-21",
+  "date_of_death": "1954-01-10",
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "Buffalo",
+  "height_cm": 157,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rocky%20Kansas.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q926367"
+}

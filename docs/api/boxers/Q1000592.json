@@ -1,0 +1,14 @@
+{
+  "id": "Q1000592",
+  "name": "Tyson Fury",
+  "date_of_birth": "1988-08-12",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "United Kingdom"
+  ],
+  "birthplace": "Manchester",
+  "height_cm": 206,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tyson%20Fury%20at%20Place%20Bell%2C%20Laval%20Quebec%2C%20Canada%20-%20Dec%2016%202017%20%28cropped%29.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q1000592"
+}

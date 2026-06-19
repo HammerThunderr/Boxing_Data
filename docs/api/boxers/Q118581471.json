@@ -1,0 +1,14 @@
+{
+  "id": "Q118581471",
+  "name": "Petro Ivanov",
+  "date_of_birth": "1996-07-12",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "Ukraine"
+  ],
+  "birthplace": "Nizhyn",
+  "height_cm": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivanov%201207.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q118581471"
+}

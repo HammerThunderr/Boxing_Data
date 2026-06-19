@@ -1,0 +1,15 @@
+{
+  "id": "Q2030401",
+  "name": "Isaac Dogboe",
+  "date_of_birth": "1994-09-26",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "United Kingdom",
+    "Ghana"
+  ],
+  "birthplace": "Accra",
+  "height_cm": 157,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Isaac%20Dogboe.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q2030401"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "Q6257938",
+  "name": "John Simpson",
+  "date_of_birth": "1983-07-26",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "United Kingdom"
+  ],
+  "birthplace": "Greenock",
+  "height_cm": null,
+  "image": null,
+  "wikidata_url": "http://www.wikidata.org/entity/Q6257938"
+}

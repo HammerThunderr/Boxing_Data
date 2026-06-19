@@ -1,0 +1,14 @@
+{
+  "id": "Q720225",
+  "name": "Tommy Gibbons",
+  "date_of_birth": "1891-03-22",
+  "date_of_death": "1960-11-19",
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "Saint Paul",
+  "height_cm": 184,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tommy%20Gibbons%20LOC.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q720225"
+}

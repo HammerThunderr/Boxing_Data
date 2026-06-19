@@ -1,0 +1,14 @@
+{
+  "id": "Q44135",
+  "name": "Jimmy Carter",
+  "date_of_birth": "1923-12-15",
+  "date_of_death": "1994-09-21",
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "Aiken",
+  "height_cm": 168,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jimmy%20Carter%201951%20%282%29.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q44135"
+}

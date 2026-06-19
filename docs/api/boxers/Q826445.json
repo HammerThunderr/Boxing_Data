@@ -1,0 +1,15 @@
+{
+  "id": "Q826445",
+  "name": "Jan Quast",
+  "date_of_birth": "1970-01-09",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "Germany",
+    "German Democratic Republic"
+  ],
+  "birthplace": "Rostock",
+  "height_cm": 159,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Quast%20%28cropped%29.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q826445"
+}

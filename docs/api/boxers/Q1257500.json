@@ -1,0 +1,14 @@
+{
+  "id": "Q1257500",
+  "name": "Terry McGovern",
+  "date_of_birth": "1880-03-09",
+  "date_of_death": "1918-02-22",
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "Johnstown",
+  "height_cm": 160,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Terry%20McGovern.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q1257500"
+}

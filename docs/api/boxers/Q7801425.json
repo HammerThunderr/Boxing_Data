@@ -1,0 +1,14 @@
+{
+  "id": "Q7801425",
+  "name": "Tiger Jones",
+  "date_of_birth": "1928-03-14",
+  "date_of_death": "1994-08-20",
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "Brooklyn",
+  "height_cm": null,
+  "image": null,
+  "wikidata_url": "http://www.wikidata.org/entity/Q7801425"
+}

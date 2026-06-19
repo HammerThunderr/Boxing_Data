@@ -1,0 +1,14 @@
+{
+  "id": "Q111041470",
+  "name": "Louis de Ponthieu",
+  "date_of_birth": "1892-08-06",
+  "date_of_death": "1953-03-18",
+  "gender": "male",
+  "countries": [
+    "France"
+  ],
+  "birthplace": "Paris",
+  "height_cm": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20Ponthieu%20Face%201912.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q111041470"
+}

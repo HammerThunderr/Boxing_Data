@@ -1,0 +1,14 @@
+{
+  "id": "Q318204",
+  "name": "Floyd Mayweather",
+  "date_of_birth": "1977-02-24",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "Grand Rapids",
+  "height_cm": 170,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Floyd%20Mayweather%2C%20Jr.%20at%20DeWalt%20event%20%285888721735%29%20%28rotated%204%29.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q318204"
+}

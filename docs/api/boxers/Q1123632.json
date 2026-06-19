@@ -1,0 +1,14 @@
+{
+  "id": "Q1123632",
+  "name": "Marty Servo",
+  "date_of_birth": "1919-11-03",
+  "date_of_death": "1969-02-09",
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "Schenectady",
+  "height_cm": 170,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lou%20Ambers%20and%20Marty%20Servo.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q1123632"
+}

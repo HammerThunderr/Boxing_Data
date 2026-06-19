@@ -1,0 +1,14 @@
+{
+  "id": "Q684115",
+  "name": "Jack Dillon",
+  "date_of_birth": "1891-02-02",
+  "date_of_death": "1942-08-07",
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "Frankfort",
+  "height_cm": 171,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jack%20Dillon.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q684115"
+}

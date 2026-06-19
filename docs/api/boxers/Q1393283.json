@@ -1,0 +1,14 @@
+{
+  "id": "Q1393283",
+  "name": "Manoj Kumar",
+  "date_of_birth": "1986-12-10",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "India"
+  ],
+  "birthplace": "Rajound",
+  "height_cm": 172,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Manoj%20Kumar%20Rio2016.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q1393283"
+}

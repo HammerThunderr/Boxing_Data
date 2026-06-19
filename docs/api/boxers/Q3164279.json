@@ -1,0 +1,15 @@
+{
+  "id": "Q3164279",
+  "name": "Jean Baptiste Mendy",
+  "date_of_birth": "1963-03-16",
+  "date_of_death": "2020-08-31",
+  "gender": "male",
+  "countries": [
+    "France",
+    "Senegal"
+  ],
+  "birthplace": "Dakar",
+  "height_cm": 177,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jbmendy%20en%20garde.JPG",
+  "wikidata_url": "http://www.wikidata.org/entity/Q3164279"
+}

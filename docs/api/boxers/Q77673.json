@@ -1,0 +1,15 @@
+{
+  "id": "Q77673",
+  "name": "Johann Trollmann",
+  "date_of_birth": "1907-12-27",
+  "date_of_death": "1944-05-01",
+  "gender": "male",
+  "countries": [
+    "Germany",
+    "German Reich"
+  ],
+  "birthplace": "Gifhorn",
+  "height_cm": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Trollmanngross.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q77673"
+}

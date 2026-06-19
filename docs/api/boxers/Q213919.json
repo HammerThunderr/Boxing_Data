@@ -1,0 +1,14 @@
+{
+  "id": "Q213919",
+  "name": "George Foreman",
+  "date_of_birth": "1949-01-10",
+  "date_of_death": "2025-03-21",
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "Marshall",
+  "height_cm": 193,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Foreman%20%281973%29.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q213919"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "Q712859",
+  "name": "Harry Greb",
+  "date_of_birth": "1894-06-06",
+  "date_of_death": "1926-10-22",
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "Pittsburgh",
+  "height_cm": 173,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Harry%20Greb%20posing.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q712859"
+}

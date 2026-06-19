@@ -1,0 +1,14 @@
+{
+  "id": "Q12319720",
+  "name": "Jim Smith",
+  "date_of_birth": "1867-02-01",
+  "date_of_death": "1913-01-24",
+  "gender": "male",
+  "countries": [
+    "Kingdom of Denmark"
+  ],
+  "birthplace": null,
+  "height_cm": null,
+  "image": null,
+  "wikidata_url": "http://www.wikidata.org/entity/Q12319720"
+}

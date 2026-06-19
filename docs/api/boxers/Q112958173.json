@@ -1,0 +1,14 @@
+{
+  "id": "Q112958173",
+  "name": "George Cook",
+  "date_of_birth": "1898-01-23",
+  "date_of_death": "1943-10-08",
+  "gender": "male",
+  "countries": [
+    "Australia"
+  ],
+  "birthplace": "Cobbora",
+  "height_cm": 175,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20en%20pied%20de%20George%20Cook%2C%20boxeur%20Australien%20-%20btv1b9040159c.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q112958173"
+}

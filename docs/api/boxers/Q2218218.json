@@ -1,0 +1,15 @@
+{
+  "id": "Q2218218",
+  "name": "Dutch Sam",
+  "date_of_birth": "1775-04-04",
+  "date_of_death": "1816-07-03",
+  "gender": "male",
+  "countries": [
+    "Kingdom of Great Britain",
+    "United Kingdom of Great Britain and Ireland"
+  ],
+  "birthplace": "Petticoat Lane Market",
+  "height_cm": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dutch%20Sam%20Elias.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q2218218"
+}

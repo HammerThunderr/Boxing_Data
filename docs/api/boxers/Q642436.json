@@ -1,0 +1,14 @@
+{
+  "id": "Q642436",
+  "name": "Joe Lynch",
+  "date_of_birth": "1898-11-30",
+  "date_of_death": "1965-09-01",
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "New York City",
+  "height_cm": 171,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JoeLynch.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q642436"
+}

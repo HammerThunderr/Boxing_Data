@@ -1,0 +1,14 @@
+{
+  "id": "Q725437",
+  "name": "Bruce Seldon",
+  "date_of_birth": "1967-01-30",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "Atlantic City",
+  "height_cm": 187,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bruce%20Seldon%20cropped.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q725437"
+}

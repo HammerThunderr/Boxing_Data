@@ -1,0 +1,14 @@
+{
+  "id": "Q21066353",
+  "name": "John Thompson",
+  "date_of_birth": "1989-03-05",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "Newark",
+  "height_cm": null,
+  "image": null,
+  "wikidata_url": "http://www.wikidata.org/entity/Q21066353"
+}

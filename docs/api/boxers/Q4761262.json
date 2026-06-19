@@ -1,0 +1,15 @@
+{
+  "id": "Q4761262",
+  "name": "Andy Ruiz Jr.",
+  "date_of_birth": "1989-09-11",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "United States",
+    "Mexico"
+  ],
+  "birthplace": "Imperial",
+  "height_cm": 188,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andy%20Ruiz%20Jr.png",
+  "wikidata_url": "http://www.wikidata.org/entity/Q4761262"
+}

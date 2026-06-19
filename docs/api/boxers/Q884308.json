@@ -1,0 +1,14 @@
+{
+  "id": "Q884308",
+  "name": "Hans Huber",
+  "date_of_birth": "1934-01-01",
+  "date_of_death": "2024-01-12",
+  "gender": "male",
+  "countries": [
+    "Germany"
+  ],
+  "birthplace": "Regensburg",
+  "height_cm": null,
+  "image": null,
+  "wikidata_url": "http://www.wikidata.org/entity/Q884308"
+}

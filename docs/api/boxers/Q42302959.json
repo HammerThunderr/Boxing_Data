@@ -1,0 +1,14 @@
+{
+  "id": "Q42302959",
+  "name": "Thomas Masson",
+  "date_of_birth": "1990-05-23",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "France"
+  ],
+  "birthplace": "Arras",
+  "height_cm": 2,
+  "image": null,
+  "wikidata_url": "http://www.wikidata.org/entity/Q42302959"
+}

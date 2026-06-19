@@ -1,0 +1,14 @@
+{
+  "id": "Q313684",
+  "name": "Sonny Liston",
+  "date_of_birth": "1932-05-08",
+  "date_of_death": "1970-12-30",
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "St. Francis County",
+  "height_cm": 185,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sonny%20Liston%201962%20Portrait.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q313684"
+}

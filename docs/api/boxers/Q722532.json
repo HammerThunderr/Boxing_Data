@@ -1,0 +1,15 @@
+{
+  "id": "Q722532",
+  "name": "Lucian Bute",
+  "date_of_birth": "1980-02-28",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "Canada",
+    "Romania"
+  ],
+  "birthplace": "Pechea",
+  "height_cm": 187,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucian%20bute.png",
+  "wikidata_url": "http://www.wikidata.org/entity/Q722532"
+}

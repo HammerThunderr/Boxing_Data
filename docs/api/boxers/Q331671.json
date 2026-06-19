@@ -1,0 +1,14 @@
+{
+  "id": "Q331671",
+  "name": "Marvin Johnson",
+  "date_of_birth": "1954-04-12",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "Indianapolis",
+  "height_cm": 177,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marvin%20Johnson%20in%20KO%20Magazine.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q331671"
+}

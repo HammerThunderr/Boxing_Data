@@ -1,0 +1,15 @@
+{
+  "id": "Q1256839",
+  "name": "Yevgeny Feofanov",
+  "date_of_birth": "1937-04-22",
+  "date_of_death": "2000-03-29",
+  "gender": "male",
+  "countries": [
+    "Russia",
+    "Soviet Union"
+  ],
+  "birthplace": "Moscow",
+  "height_cm": 173,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Feofanov%20Evgeni%20USSR%20boxing.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q1256839"
+}

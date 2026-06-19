@@ -1,0 +1,14 @@
+{
+  "id": "Q102301",
+  "name": "Joe Frazier",
+  "date_of_birth": "1944-01-12",
+  "date_of_death": "2011-11-07",
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "Beaufort",
+  "height_cm": 182,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joe%20Frazier%20color%20portrait.png",
+  "wikidata_url": "http://www.wikidata.org/entity/Q102301"
+}

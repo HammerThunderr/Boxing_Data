@@ -1,0 +1,14 @@
+{
+  "id": "Q47452754",
+  "name": "Ryan Garcia",
+  "date_of_birth": "1998-08-08",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "Victorville",
+  "height_cm": 2,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RYAN%20GARCIA.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q47452754"
+}

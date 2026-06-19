@@ -1,0 +1,14 @@
+{
+  "id": "Q6042924",
+  "name": "Harry Persson",
+  "date_of_birth": "1898-09-24",
+  "date_of_death": "1979-10-01",
+  "gender": "male",
+  "countries": [
+    "Sweden"
+  ],
+  "birthplace": "Adolf Fredriks parish",
+  "height_cm": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Harry%20Persson.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q6042924"
+}

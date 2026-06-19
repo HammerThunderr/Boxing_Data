@@ -1,0 +1,15 @@
+{
+  "id": "Q112322",
+  "name": "Paul Briggs",
+  "date_of_birth": "1975-08-13",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "Australia",
+    "New Zealand"
+  ],
+  "birthplace": "Christchurch",
+  "height_cm": null,
+  "image": null,
+  "wikidata_url": "http://www.wikidata.org/entity/Q112322"
+}

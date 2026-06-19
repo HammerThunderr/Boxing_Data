@@ -1,0 +1,15 @@
+{
+  "id": "Q1043255",
+  "name": "Carlos Takam",
+  "date_of_birth": "1980-12-06",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "France",
+    "Cameroon"
+  ],
+  "birthplace": "Douala",
+  "height_cm": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/20140528%20-%20Carlos%20Takam%2017.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q1043255"
+}

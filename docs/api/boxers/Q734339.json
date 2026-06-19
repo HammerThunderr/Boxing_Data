@@ -1,0 +1,14 @@
+{
+  "id": "Q734339",
+  "name": "Henry Armstrong",
+  "date_of_birth": "1912-12-12",
+  "date_of_death": "1988-10-24",
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "Columbus",
+  "height_cm": 166,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Armstrong%201937.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q734339"
+}

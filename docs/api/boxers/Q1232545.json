@@ -1,0 +1,14 @@
+{
+  "id": "Q1232545",
+  "name": "Dmitry Pirog",
+  "date_of_birth": "1980-06-27",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "Russia"
+  ],
+  "birthplace": "Temryuk",
+  "height_cm": 185,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dmitry%20Pirog.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q1232545"
+}

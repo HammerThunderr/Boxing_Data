@@ -1,0 +1,14 @@
+{
+  "id": "Q6230249",
+  "name": "John Duddy",
+  "date_of_birth": "1979-06-19",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "United Kingdom"
+  ],
+  "birthplace": "Derry",
+  "height_cm": null,
+  "image": null,
+  "wikidata_url": "http://www.wikidata.org/entity/Q6230249"
+}

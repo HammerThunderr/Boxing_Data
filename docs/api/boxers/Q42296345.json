@@ -1,0 +1,15 @@
+{
+  "id": "Q42296345",
+  "name": "Volodymyr Ivanov",
+  "date_of_birth": "1936-02-08",
+  "date_of_death": "2021-08-21",
+  "gender": "male",
+  "countries": [
+    "Belarus",
+    "Soviet Union"
+  ],
+  "birthplace": "Krasnoyarsk Krai",
+  "height_cm": 152,
+  "image": null,
+  "wikidata_url": "http://www.wikidata.org/entity/Q42296345"
+}

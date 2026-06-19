@@ -1,0 +1,15 @@
+{
+  "id": "Q199269",
+  "name": "Christian Hammer",
+  "date_of_birth": "1987-09-27",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "Germany",
+    "Romania"
+  ],
+  "birthplace": "Galați",
+  "height_cm": 188,
+  "image": null,
+  "wikidata_url": "http://www.wikidata.org/entity/Q199269"
+}

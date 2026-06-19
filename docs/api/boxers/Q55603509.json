@@ -1,0 +1,15 @@
+{
+  "id": "Q55603509",
+  "name": "Alan Moore",
+  "date_of_birth": "1973-01-01",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "Ireland",
+    "Russia"
+  ],
+  "birthplace": null,
+  "height_cm": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Capital%20Sports%20Alec%20Peters.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q55603509"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "Q123340257",
+  "name": "David Paltiel",
+  "date_of_birth": "1914-01-26",
+  "date_of_death": "1994-04-30",
+  "gender": "male",
+  "countries": [
+    "Norway"
+  ],
+  "birthplace": "Trondheim",
+  "height_cm": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paltiel1936.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q123340257"
+}

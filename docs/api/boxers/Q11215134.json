@@ -1,0 +1,14 @@
+{
+  "id": "Q11215134",
+  "name": "Rolf Storm",
+  "date_of_birth": "1930-08-05",
+  "date_of_death": "2000-07-23",
+  "gender": "male",
+  "countries": [
+    "Sweden"
+  ],
+  "birthplace": "Norrköping",
+  "height_cm": null,
+  "image": null,
+  "wikidata_url": "http://www.wikidata.org/entity/Q11215134"
+}

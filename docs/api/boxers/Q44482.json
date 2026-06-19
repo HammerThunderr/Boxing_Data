@@ -1,0 +1,15 @@
+{
+  "id": "Q44482",
+  "name": "The Great Khali",
+  "date_of_birth": "1972-08-27",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "United States",
+    "India"
+  ],
+  "birthplace": "Dhiraina",
+  "height_cm": 221,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Khali%20cropped.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q44482"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "Q471383",
+  "name": "Joe Calzaghe",
+  "date_of_birth": "1972-03-23",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "United Kingdom"
+  ],
+  "birthplace": "Hammersmith",
+  "height_cm": 182,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JoeCalzaghe-July2007.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q471383"
+}

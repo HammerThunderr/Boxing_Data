@@ -1,0 +1,15 @@
+{
+  "id": "Q2552036",
+  "name": "Vasily Shishov",
+  "date_of_birth": "1961-05-26",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "Russia",
+    "Soviet Union"
+  ],
+  "birthplace": "Samara",
+  "height_cm": 176,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vasily%20Shishov%2C%20November%202016.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q2552036"
+}

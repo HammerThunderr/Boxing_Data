@@ -1,0 +1,14 @@
+{
+  "id": "Q5715646",
+  "name": "Henri Piet",
+  "date_of_birth": "1888-01-02",
+  "date_of_death": "1915-04-26",
+  "gender": "male",
+  "countries": [
+    "France"
+  ],
+  "birthplace": "1st arrondissement of Paris",
+  "height_cm": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Piet%20325px.jpeg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q5715646"
+}

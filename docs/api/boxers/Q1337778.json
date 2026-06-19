@@ -1,0 +1,14 @@
+{
+  "id": "Q1337778",
+  "name": "Willie Pep",
+  "date_of_birth": "1922-09-19",
+  "date_of_death": "2006-11-23",
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "Hartford",
+  "height_cm": 165,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Willie%20Pep%201950.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q1337778"
+}

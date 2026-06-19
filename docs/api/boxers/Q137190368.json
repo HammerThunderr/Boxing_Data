@@ -1,0 +1,14 @@
+{
+  "id": "Q137190368",
+  "name": "Curly Wilshur",
+  "date_of_birth": "1901-01-01",
+  "date_of_death": "1962-11-08",
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "London",
+  "height_cm": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Boxer%20Curly%20Wilshur%2C%201922.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q137190368"
+}

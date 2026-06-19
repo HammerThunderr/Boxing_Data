@@ -1,0 +1,15 @@
+{
+  "id": "Q726852",
+  "name": "Jean Pascal",
+  "date_of_birth": "1982-10-28",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "Canada",
+    "Haiti"
+  ],
+  "birthplace": "Port-au-Prince",
+  "height_cm": 180,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Pascal%20%28Boxer%29.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q726852"
+}

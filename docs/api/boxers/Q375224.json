@@ -1,0 +1,14 @@
+{
+  "id": "Q375224",
+  "name": "Panama Al Brown",
+  "date_of_birth": "1902-07-05",
+  "date_of_death": "1951-04-11",
+  "gender": "male",
+  "countries": [
+    "Panama"
+  ],
+  "birthplace": "Colón City",
+  "height_cm": 180,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Panama%20Al%20Brown%20Portrait%20BNF.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q375224"
+}

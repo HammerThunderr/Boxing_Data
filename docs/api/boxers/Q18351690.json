@@ -1,0 +1,14 @@
+{
+  "id": "Q18351690",
+  "name": "Dick Smith",
+  "date_of_birth": "1886-02-10",
+  "date_of_death": "1950-01-08",
+  "gender": "male",
+  "countries": [
+    "United Kingdom"
+  ],
+  "birthplace": "Woolwich",
+  "height_cm": null,
+  "image": null,
+  "wikidata_url": "http://www.wikidata.org/entity/Q18351690"
+}

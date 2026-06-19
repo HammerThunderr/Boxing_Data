@@ -1,0 +1,14 @@
+{
+  "id": "Q4083370",
+  "name": "Tony Bellew",
+  "date_of_birth": "1982-11-30",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "United Kingdom"
+  ],
+  "birthplace": "Liverpool",
+  "height_cm": 191,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tony%20Bellew.png",
+  "wikidata_url": "http://www.wikidata.org/entity/Q4083370"
+}

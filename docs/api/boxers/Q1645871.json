@@ -1,0 +1,14 @@
+{
+  "id": "Q1645871",
+  "name": "Charley Mitchell",
+  "date_of_birth": "1861-11-24",
+  "date_of_death": "1918-04-03",
+  "gender": "male",
+  "countries": [
+    "United Kingdom of Great Britain and Ireland"
+  ],
+  "birthplace": "Birmingham",
+  "height_cm": 175,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CharlieMitchell.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q1645871"
+}

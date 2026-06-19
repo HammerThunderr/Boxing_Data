@@ -1,0 +1,14 @@
+{
+  "id": "Q332351",
+  "name": "Beau Jack",
+  "date_of_birth": "1921-04-01",
+  "date_of_death": "2000-02-09",
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "Augusta",
+  "height_cm": 168,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Beau%20Jack%201949.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q332351"
+}

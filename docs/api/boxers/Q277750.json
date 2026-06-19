@@ -1,0 +1,14 @@
+{
+  "id": "Q277750",
+  "name": "Carl Froch",
+  "date_of_birth": "1977-07-02",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "United Kingdom"
+  ],
+  "birthplace": "Nottingham",
+  "height_cm": 185,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Froch.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q277750"
+}

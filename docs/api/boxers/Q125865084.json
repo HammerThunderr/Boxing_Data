@@ -1,0 +1,14 @@
+{
+  "id": "Q125865084",
+  "name": "Jerry Shears",
+  "date_of_birth": "1925-10-18",
+  "date_of_death": "2010-03-21",
+  "gender": "male",
+  "countries": [
+    "Canada"
+  ],
+  "birthplace": "Montreal",
+  "height_cm": null,
+  "image": null,
+  "wikidata_url": "http://www.wikidata.org/entity/Q125865084"
+}

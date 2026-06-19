@@ -1,0 +1,14 @@
+{
+  "id": "Q1065512",
+  "name": "Kid McCoy",
+  "date_of_birth": "1873-10-13",
+  "date_of_death": "1940-04-18",
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "Rush County",
+  "height_cm": 180,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kid%20McCoy.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q1065512"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "Q327802",
+  "name": "Kevin Lynch",
+  "date_of_birth": "1956-05-25",
+  "date_of_death": "1981-08-01",
+  "gender": "male",
+  "countries": [
+    "Ireland"
+  ],
+  "birthplace": "Park",
+  "height_cm": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kevin%20Lynch%20placard.JPG",
+  "wikidata_url": "http://www.wikidata.org/entity/Q327802"
+}

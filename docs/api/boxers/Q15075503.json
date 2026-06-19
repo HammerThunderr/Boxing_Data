@@ -1,0 +1,15 @@
+{
+  "id": "Q15075503",
+  "name": "Boris Nikonorov",
+  "date_of_birth": "1939-01-25",
+  "date_of_death": "2015-08-30",
+  "gender": "male",
+  "countries": [
+    "Russia",
+    "Soviet Union"
+  ],
+  "birthplace": "Moscow",
+  "height_cm": 160,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Doris%20Fuchs%20and%20Boris%20Nikonorov%201960.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q15075503"
+}

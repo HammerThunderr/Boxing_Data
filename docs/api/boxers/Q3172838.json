@@ -1,0 +1,14 @@
+{
+  "id": "Q3172838",
+  "name": "Jean Josselin",
+  "date_of_birth": "1940-01-06",
+  "date_of_death": "2021-02-07",
+  "gender": "male",
+  "countries": [
+    "France"
+  ],
+  "birthplace": "Besançon",
+  "height_cm": 170,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Josselin%201968.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q3172838"
+}

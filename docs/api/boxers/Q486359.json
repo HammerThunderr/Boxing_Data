@@ -1,0 +1,14 @@
+{
+  "id": "Q486359",
+  "name": "Manny Pacquiao",
+  "date_of_birth": "1978-12-17",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "Philippines"
+  ],
+  "birthplace": "Kibawe",
+  "height_cm": 166,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pacquiao%20and%20Didal%20%28cropped%29.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q486359"
+}

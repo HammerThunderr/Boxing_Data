@@ -1,0 +1,14 @@
+{
+  "id": "Q16205569",
+  "name": "Cathy Brown",
+  "date_of_birth": "1970-07-28",
+  "date_of_death": null,
+  "gender": "female",
+  "countries": [
+    "United Kingdom"
+  ],
+  "birthplace": "Leeds",
+  "height_cm": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/3rdSpaceSoho%20Cathy018.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q16205569"
+}

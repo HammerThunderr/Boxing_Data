@@ -1,0 +1,14 @@
+{
+  "id": "Q734471",
+  "name": "Mickey Walker",
+  "date_of_birth": "1901-07-13",
+  "date_of_death": "1981-04-28",
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "Elizabeth",
+  "height_cm": 170,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mickey%20Walker%20LOC.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q734471"
+}

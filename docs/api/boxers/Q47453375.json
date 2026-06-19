@@ -1,0 +1,14 @@
+{
+  "id": "Q47453375",
+  "name": "Ivan Avdeev",
+  "date_of_birth": "1997-03-20",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "Russia"
+  ],
+  "birthplace": "Volgograd Oblast",
+  "height_cm": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%98%D0%B2%D0%B0%D0%BD%20%D0%90%D0%B2%D0%B4%D0%B5%D0%B5%D0%B2.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q47453375"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "Q2003750",
+  "name": "Albert Kraus",
+  "date_of_birth": "1980-08-03",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "Kingdom of the Netherlands"
+  ],
+  "birthplace": "Oss",
+  "height_cm": 175,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20the%20Champ.JPG",
+  "wikidata_url": "http://www.wikidata.org/entity/Q2003750"
+}

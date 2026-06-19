@@ -1,0 +1,14 @@
+{
+  "id": "Q2029994",
+  "name": "Luke Jackson",
+  "date_of_birth": "1985-01-01",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "Australia"
+  ],
+  "birthplace": "Hobart",
+  "height_cm": 169,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Luke%20Jackson%2C%202015.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q2029994"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "Q556600",
+  "name": "Carlos Quipo",
+  "date_of_birth": "1990-05-17",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "Ecuador"
+  ],
+  "birthplace": null,
+  "height_cm": 163,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Boxing%20in%20London%202012%20Olympics.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q556600"
+}

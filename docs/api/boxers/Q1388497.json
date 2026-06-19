@@ -1,0 +1,14 @@
+{
+  "id": "Q1388497",
+  "name": "Jerry Quarry",
+  "date_of_birth": "1945-05-15",
+  "date_of_death": "1999-01-03",
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "Bakersfield",
+  "height_cm": 183,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jerry%20Quarry%20after%20winning%20the%20fight%20against%20Thad%20Spencer.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q1388497"
+}

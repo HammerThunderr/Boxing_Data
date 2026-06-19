@@ -1,0 +1,15 @@
+{
+  "id": "Q1799479",
+  "name": "Alexander Getie",
+  "date_of_birth": "1889-01-01",
+  "date_of_death": "1938-01-08",
+  "gender": "male",
+  "countries": [
+    "Soviet Union",
+    "Russian Empire"
+  ],
+  "birthplace": "Moscow",
+  "height_cm": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/AlexanderGetye.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q1799479"
+}

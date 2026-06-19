@@ -1,0 +1,16 @@
+{
+  "id": "Q3376388",
+  "name": "Pete Latzo",
+  "date_of_birth": "1902-08-01",
+  "date_of_death": "1968-07-07",
+  "gender": "male",
+  "countries": [
+    "United States",
+    "Italy",
+    "Kingdom of Italy"
+  ],
+  "birthplace": "Colerain Township",
+  "height_cm": 171,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pete%20Latzo%20LOC.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q3376388"
+}

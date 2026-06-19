@@ -1,0 +1,14 @@
+{
+  "id": "Q5541127",
+  "name": "George Johnson",
+  "date_of_birth": "1950-03-13",
+  "date_of_death": "2016-04-09",
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "Oklahoma City",
+  "height_cm": null,
+  "image": null,
+  "wikidata_url": "http://www.wikidata.org/entity/Q5541127"
+}

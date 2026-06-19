@@ -1,0 +1,14 @@
+{
+  "id": "Q57572347",
+  "name": "Marc Gaucher",
+  "date_of_birth": "1882-02-02",
+  "date_of_death": "1953-11-23",
+  "gender": "male",
+  "countries": [
+    "France"
+  ],
+  "birthplace": "Armentières",
+  "height_cm": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gaucher%2C%20Marc%20%28La%20Vie%20au%20grand%20air%2C%201906-01-19%29.jpeg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q57572347"
+}

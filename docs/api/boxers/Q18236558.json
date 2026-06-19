@@ -1,0 +1,15 @@
+{
+  "id": "Q18236558",
+  "name": "Dmitry Bivol",
+  "date_of_birth": "1990-12-18",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "Russia",
+    "Kyrgyzstan"
+  ],
+  "birthplace": "Tokmok",
+  "height_cm": 183,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dmitry%20Bivol%20in%202023.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q18236558"
+}

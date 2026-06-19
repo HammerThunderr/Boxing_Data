@@ -1,0 +1,14 @@
+{
+  "id": "Q16059198",
+  "name": "Tom McCormick",
+  "date_of_birth": "1890-08-08",
+  "date_of_death": "1916-07-06",
+  "gender": "male",
+  "countries": [
+    "Ireland"
+  ],
+  "birthplace": "Dundalk",
+  "height_cm": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mccormick-tom.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q16059198"
+}

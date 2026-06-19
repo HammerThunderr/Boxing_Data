@@ -1,0 +1,14 @@
+{
+  "id": "Q123345910",
+  "name": "Jean-Marie Emébé",
+  "date_of_birth": "1955-08-17",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "Cameroon"
+  ],
+  "birthplace": null,
+  "height_cm": null,
+  "image": null,
+  "wikidata_url": "http://www.wikidata.org/entity/Q123345910"
+}

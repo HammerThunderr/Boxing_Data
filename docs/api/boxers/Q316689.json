@@ -1,0 +1,14 @@
+{
+  "id": "Q316689",
+  "name": "Jack Johnson",
+  "date_of_birth": "1878-03-31",
+  "date_of_death": "1946-06-10",
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "Galveston",
+  "height_cm": 184,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jack%20Johnson1.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q316689"
+}

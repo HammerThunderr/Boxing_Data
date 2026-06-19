@@ -1,0 +1,14 @@
+{
+  "id": "Q273206",
+  "name": "Joe Louis",
+  "date_of_birth": "1914-05-13",
+  "date_of_death": "1981-04-12",
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "LaFayette",
+  "height_cm": 188,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joe%20Louis%201937%20headshot%20by%20the%20Associated%20Press.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q273206"
+}

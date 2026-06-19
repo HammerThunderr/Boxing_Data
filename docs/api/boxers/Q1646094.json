@@ -1,0 +1,14 @@
+{
+  "id": "Q1646094",
+  "name": "Joe Jeanette",
+  "date_of_birth": "1879-08-26",
+  "date_of_death": "1958-07-02",
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "North Bergen",
+  "height_cm": 178,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joe%20Jeanette%201920s%20%28cropped%29.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q1646094"
+}

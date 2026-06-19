@@ -1,0 +1,14 @@
+{
+  "id": "Q4150432",
+  "name": "George Groves",
+  "date_of_birth": "1988-03-26",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "United Kingdom"
+  ],
+  "birthplace": "London",
+  "height_cm": 182,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20groves%20-%20wembley%202011.11.05.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q4150432"
+}

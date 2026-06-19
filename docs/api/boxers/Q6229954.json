@@ -1,0 +1,14 @@
+{
+  "id": "Q6229954",
+  "name": "John Dovi",
+  "date_of_birth": "1973-01-02",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "France"
+  ],
+  "birthplace": "Saint-Maurice",
+  "height_cm": 181,
+  "image": null,
+  "wikidata_url": "http://www.wikidata.org/entity/Q6229954"
+}

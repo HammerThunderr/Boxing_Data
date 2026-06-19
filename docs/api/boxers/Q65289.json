@@ -1,0 +1,15 @@
+{
+  "id": "Q65289",
+  "name": "Robert Stieglitz",
+  "date_of_birth": "1981-06-20",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "Germany",
+    "Soviet Union"
+  ],
+  "birthplace": "Yeysk",
+  "height_cm": 180,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert-Stieglitz.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q65289"
+}

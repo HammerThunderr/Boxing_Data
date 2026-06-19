@@ -1,0 +1,17 @@
+{
+  "id": "Q12363513",
+  "name": "Harry Veber",
+  "date_of_birth": "1913-06-26",
+  "date_of_death": "2000-06-02",
+  "gender": "male",
+  "countries": [
+    "Canada",
+    "United States",
+    "France",
+    "Estonia"
+  ],
+  "birthplace": null,
+  "height_cm": null,
+  "image": null,
+  "wikidata_url": "http://www.wikidata.org/entity/Q12363513"
+}

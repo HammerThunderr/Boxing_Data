@@ -1,0 +1,15 @@
+{
+  "id": "Q356871",
+  "name": "Anderson Silva",
+  "date_of_birth": "1975-04-14",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "United States",
+    "Brazil"
+  ],
+  "birthplace": "São Paulo",
+  "height_cm": 188,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anderson%20Silva.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q356871"
+}

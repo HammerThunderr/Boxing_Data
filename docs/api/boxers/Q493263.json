@@ -1,0 +1,14 @@
+{
+  "id": "Q493263",
+  "name": "Andre Ward",
+  "date_of_birth": "1984-02-23",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "San Francisco",
+  "height_cm": 185,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andre%20Ward.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q493263"
+}

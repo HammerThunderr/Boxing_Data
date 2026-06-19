@@ -1,0 +1,14 @@
+{
+  "id": "Q370993",
+  "name": "John L. Sullivan",
+  "date_of_birth": "1858-10-15",
+  "date_of_death": "1918-02-02",
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "Roxbury",
+  "height_cm": 179,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20L%20Sullivan.png",
+  "wikidata_url": "http://www.wikidata.org/entity/Q370993"
+}

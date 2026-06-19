@@ -1,0 +1,14 @@
+{
+  "id": "Q21472878",
+  "name": "Jack Jones",
+  "date_of_birth": "1906-03-05",
+  "date_of_death": "1995-05-26",
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "Bingham Canyon",
+  "height_cm": 2,
+  "image": null,
+  "wikidata_url": "http://www.wikidata.org/entity/Q21472878"
+}

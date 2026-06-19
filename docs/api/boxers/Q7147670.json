@@ -1,0 +1,14 @@
+{
+  "id": "Q7147670",
+  "name": "Patrick Smith",
+  "date_of_birth": "1963-08-28",
+  "date_of_death": "2019-06-19",
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "Coalgate",
+  "height_cm": 2,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Patrick%20%22The%20Head%20Hunter%22%20Smith.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q7147670"
+}

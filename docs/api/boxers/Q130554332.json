@@ -1,0 +1,17 @@
+{
+  "id": "Q130554332",
+  "name": "Boris Snezhkovsky",
+  "date_of_birth": "1910-07-23",
+  "date_of_death": "1978-02-24",
+  "gender": "male",
+  "countries": [
+    "France",
+    "Russian Soviet Federative Socialist Republic",
+    "Russian Empire",
+    "Russian Socialist Federative Soviet Republic"
+  ],
+  "birthplace": "Odesa",
+  "height_cm": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/B.%20Snezhkovsky%20by%20K.Somov%20%281934%29.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q130554332"
+}

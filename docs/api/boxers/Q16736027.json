@@ -1,0 +1,14 @@
+{
+  "id": "Q16736027",
+  "name": "Georges Pixius",
+  "date_of_birth": "1901-01-15",
+  "date_of_death": "1962-06-05",
+  "gender": "male",
+  "countries": [
+    "Luxembourg"
+  ],
+  "birthplace": "Rumelange",
+  "height_cm": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Pixius.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q16736027"
+}

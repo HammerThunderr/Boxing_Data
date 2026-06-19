@@ -1,0 +1,14 @@
+{
+  "id": "Q6210730",
+  "name": "Joe Knight",
+  "date_of_birth": "1909-01-15",
+  "date_of_death": "1976-07-01",
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "Cairo",
+  "height_cm": null,
+  "image": null,
+  "wikidata_url": "http://www.wikidata.org/entity/Q6210730"
+}

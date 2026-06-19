@@ -1,0 +1,14 @@
+{
+  "id": "Q4160430",
+  "name": "Tony Jones",
+  "date_of_birth": "1965-04-12",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "Australia"
+  ],
+  "birthplace": "Perth",
+  "height_cm": null,
+  "image": null,
+  "wikidata_url": "http://www.wikidata.org/entity/Q4160430"
+}

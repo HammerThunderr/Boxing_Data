@@ -1,0 +1,14 @@
+{
+  "id": "Q328951",
+  "name": "Mary Kom",
+  "date_of_birth": "1982-03-01",
+  "date_of_death": null,
+  "gender": "female",
+  "countries": [
+    "India"
+  ],
+  "birthplace": "Manipur",
+  "height_cm": 158,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Kom%20-%20British%20High%20Commission%2C%20Delhi%2C%2027%20July%202011.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q328951"
+}

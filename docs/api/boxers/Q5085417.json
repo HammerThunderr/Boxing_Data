@@ -1,0 +1,14 @@
+{
+  "id": "Q5085417",
+  "name": "Charlie Purdy",
+  "date_of_birth": "1905-12-12",
+  "date_of_death": "1982-01-25",
+  "gender": "male",
+  "countries": [
+    "New Zealand"
+  ],
+  "birthplace": "Auckland",
+  "height_cm": 154,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charliepurdy1925.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q5085417"
+}

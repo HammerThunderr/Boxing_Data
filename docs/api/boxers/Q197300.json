@@ -1,0 +1,14 @@
+{
+  "id": "Q197300",
+  "name": "Zhang Xiaoping",
+  "date_of_birth": "1982-04-01",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "People's Republic of China"
+  ],
+  "birthplace": "Xilinhot",
+  "height_cm": 188,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zhang%20Xiaoping.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q197300"
+}

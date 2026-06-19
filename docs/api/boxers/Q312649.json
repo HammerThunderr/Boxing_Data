@@ -1,0 +1,14 @@
+{
+  "id": "Q312649",
+  "name": "David Haye",
+  "date_of_birth": "1980-10-13",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "United Kingdom"
+  ],
+  "birthplace": "London",
+  "height_cm": 191,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Haye.png",
+  "wikidata_url": "http://www.wikidata.org/entity/Q312649"
+}

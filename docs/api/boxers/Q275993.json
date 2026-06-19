@@ -1,0 +1,14 @@
+{
+  "id": "Q275993",
+  "name": "Tommy Burns",
+  "date_of_birth": "1881-06-17",
+  "date_of_death": "1955-05-10",
+  "gender": "male",
+  "countries": [
+    "Canada"
+  ],
+  "birthplace": "Ontario",
+  "height_cm": 170,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tommy%20Burns%201912.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q275993"
+}

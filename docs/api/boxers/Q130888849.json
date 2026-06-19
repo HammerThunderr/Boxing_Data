@@ -1,0 +1,15 @@
+{
+  "id": "Q130888849",
+  "name": "Tom Wallace",
+  "date_of_birth": "1984-02-25",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "France",
+    "Cameroon"
+  ],
+  "birthplace": "Décines-Charpieu",
+  "height_cm": 2,
+  "image": null,
+  "wikidata_url": "http://www.wikidata.org/entity/Q130888849"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "Q1645862",
+  "name": "Harry Harris",
+  "date_of_birth": "1880-11-18",
+  "date_of_death": "1959-06-05",
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "Chicago",
+  "height_cm": 171,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Harrisharry.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q1645862"
+}

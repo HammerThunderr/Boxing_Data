@@ -1,0 +1,14 @@
+{
+  "id": "Q720924",
+  "name": "Sam McVey",
+  "date_of_birth": "1884-05-17",
+  "date_of_death": "1921-12-23",
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "Texas",
+  "height_cm": 179,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sam%20McVey.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q720924"
+}

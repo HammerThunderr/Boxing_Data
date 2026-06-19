@@ -1,0 +1,14 @@
+{
+  "id": "Q1438302",
+  "name": "Joe Harris",
+  "date_of_birth": "1945-12-01",
+  "date_of_death": "1990-03-06",
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "Camden",
+  "height_cm": null,
+  "image": null,
+  "wikidata_url": "http://www.wikidata.org/entity/Q1438302"
+}

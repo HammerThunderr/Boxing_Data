@@ -1,0 +1,14 @@
+{
+  "id": "Q313451",
+  "name": "Evander Holyfield",
+  "date_of_birth": "1962-10-19",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "Atmore",
+  "height_cm": 189,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Evander%20Holyfield%20LA%202011.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q313451"
+}

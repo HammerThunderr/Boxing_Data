@@ -1,0 +1,14 @@
+{
+  "id": "Q711879",
+  "name": "Harry Wills",
+  "date_of_birth": "1889-05-15",
+  "date_of_death": "1958-12-21",
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "New Orleans",
+  "height_cm": 188,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Harry%20Willis%201916.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q711879"
+}

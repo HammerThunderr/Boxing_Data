@@ -1,0 +1,14 @@
+{
+  "id": "Q11332309",
+  "name": "Juan Francisco Estrada",
+  "date_of_birth": "1990-04-14",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "Mexico"
+  ],
+  "birthplace": "Puerto Peñasco",
+  "height_cm": 163,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gallo21.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q11332309"
+}

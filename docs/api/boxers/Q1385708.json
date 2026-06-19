@@ -1,0 +1,14 @@
+{
+  "id": "Q1385708",
+  "name": "Olle Tandberg",
+  "date_of_birth": "1918-10-10",
+  "date_of_death": "1996-12-26",
+  "gender": "male",
+  "countries": [
+    "Sweden"
+  ],
+  "birthplace": "Stockholm",
+  "height_cm": 190,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tandberg-walcott.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q1385708"
+}

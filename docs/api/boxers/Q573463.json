@@ -1,0 +1,14 @@
+{
+  "id": "Q573463",
+  "name": "Anthony Joshua",
+  "date_of_birth": "1989-10-15",
+  "date_of_death": null,
+  "gender": "male",
+  "countries": [
+    "United Kingdom"
+  ],
+  "birthplace": "Watford",
+  "height_cm": 198,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20Joshua%202017.png",
+  "wikidata_url": "http://www.wikidata.org/entity/Q573463"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "Q6776622",
+  "name": "Martin Smith",
+  "date_of_birth": "1936-11-12",
+  "date_of_death": "2012-11-25",
+  "gender": "male",
+  "countries": [
+    "Ireland"
+  ],
+  "birthplace": "Belfast",
+  "height_cm": null,
+  "image": null,
+  "wikidata_url": "http://www.wikidata.org/entity/Q6776622"
+}

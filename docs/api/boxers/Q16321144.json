@@ -1,0 +1,15 @@
+{
+  "id": "Q16321144",
+  "name": "Werner Kastor",
+  "date_of_birth": "2000-01-01",
+  "date_of_death": "2019-05-02",
+  "gender": "male",
+  "countries": [
+    "Germany",
+    "German Democratic Republic"
+  ],
+  "birthplace": "Berlin",
+  "height_cm": null,
+  "image": null,
+  "wikidata_url": "http://www.wikidata.org/entity/Q16321144"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "Q60581346",
+  "name": "Harry Stone",
+  "date_of_birth": "1893-03-04",
+  "date_of_death": "1950-12-13",
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "New York City",
+  "height_cm": null,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Harry%20Stone%201910%20cigarette%20card.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q60581346"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "Q3360338",
+  "name": "Paddy Duffy",
+  "date_of_birth": "1864-11-12",
+  "date_of_death": "1890-09-19",
+  "gender": "male",
+  "countries": [
+    "United States"
+  ],
+  "birthplace": "Boston",
+  "height_cm": 170,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paddy%20duffy.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q3360338"
+}

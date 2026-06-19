@@ -1,0 +1,14 @@
+{
+  "id": "Q1496671",
+  "name": "Tom Bogs",
+  "date_of_birth": "1944-11-21",
+  "date_of_death": "2023-12-22",
+  "gender": "male",
+  "countries": [
+    "Kingdom of Denmark"
+  ],
+  "birthplace": "Christianshavn",
+  "height_cm": 2,
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tom%20Bogs%201970.jpg",
+  "wikidata_url": "http://www.wikidata.org/entity/Q1496671"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q7507920",
+  "name": "Sid Smith",
+  "date_of_birth": "1889-02-02",
+  "date_of_death": "1948-04-28",
+  "gender": "male",
+  "countries": [
+    "United Kingdom",
+    "United Kingdom of Great Britain and Ireland"
+  ],
+  "birthplace": "Bermondsey",
+  "height_cm": null,
+  "image": null,
+  "wikidata_url": "http://www.wikidata.org/entity/Q7507920"
+}
