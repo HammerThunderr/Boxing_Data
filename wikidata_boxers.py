@@ -26,10 +26,12 @@ WDQS = "https://query.wikidata.org/sparql"
 
 # WDQS REQUIRES a descriptive User-Agent with real contact info, or it blocks
 # you. Put your own repo URL / email here before running.
-USER_AGENT = "ManxBoxingAPI/1.0 (https://github.com/HammerThunderr; contact: hammerpunch786@gmail.com)"
+USER_AGENT = "ManxBoxingAPI/1.0 (https://github.com/HammerThunderr; contact: you@example.com)"
 
-OUT_DIR = Path("docs/api/boxers")
-META_PATH = Path("docs/api/meta.json")
+OUT_DIR = Path("docs/api")
+FULL_PATH = OUT_DIR / "boxers.json"     # every boxer, full records
+INDEX_PATH = OUT_DIR / "index.json"     # slim list for search / list views
+META_PATH = OUT_DIR / "meta.json"
 
 PAGE_SIZE = 1000   # rows per request
 SLEEP = 1.0        # seconds between pages — be polite to WDQS
@@ -133,23 +135,27 @@ def build():
 
 def write(boxers):
     OUT_DIR.mkdir(parents=True, exist_ok=True)
-    index = []
-    for qid, b in sorted(boxers.items()):
-        (OUT_DIR / f"{qid}.json").write_text(
-            json.dumps(b, ensure_ascii=False, indent=2), encoding="utf-8"
-        )
-        index.append({"id": qid, "name": b["name"], "countries": b["countries"]})
-    (OUT_DIR / "index.json").write_text(
+    records = [b for _, b in sorted(boxers.items())]
+
+    # Full dataset — one file, fetched once and cached client-side.
+    FULL_PATH.write_text(
+        json.dumps(records, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+
+    # Slim index for fast list / search views.
+    index = [{"id": b["id"], "name": b["name"], "countries": b["countries"]}
+             for b in records]
+    INDEX_PATH.write_text(
         json.dumps(index, ensure_ascii=False, indent=2), encoding="utf-8"
     )
-    META_PATH.parent.mkdir(parents=True, exist_ok=True)
+
     META_PATH.write_text(json.dumps({
         "generated_at": datetime.now(timezone.utc).isoformat(),
-        "count": len(index),
+        "count": len(records),
         "source": "Wikidata (CC0)",
         "license": "CC0-1.0",
     }, indent=2), encoding="utf-8")
-    print(f"wrote {len(index)} boxer files + index.json + meta.json")
+    print(f"wrote boxers.json ({len(records)} records) + index.json + meta.json")
 
 
 if __name__ == "__main__":
