@@ -26,7 +26,7 @@ WDQS = "https://query.wikidata.org/sparql"
 
 # WDQS REQUIRES a descriptive User-Agent with real contact info, or it blocks
 # you. Put your own repo URL / email here before running.
-USER_AGENT = "ManxBoxingAPI/1.0 (https://github.com/HammerThunderr; contact: you@example.com)"
+USER_AGENT = "ManxBoxingAPI/1.0 (https://github.com/HammerThunderr; contact: hammerpunch786@gmail.com)"
 
 OUT_DIR = Path("docs/api/boxers")
 META_PATH = Path("docs/api/meta.json")
