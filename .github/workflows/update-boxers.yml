@@ -1,0 +1,32 @@
+name: Update boxing API
+
+on:
+  schedule:
+    - cron: "0 4 * * 0"        # weekly, Sunday 04:00 UTC
+  workflow_dispatch: {}          # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests
+
+      - name: Build JSON from Wikidata
+        run: python wikidata_boxers.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/api
+          git diff --quiet --cached || git commit -m "Update boxing data $(date -u +%F)"
+          git push
