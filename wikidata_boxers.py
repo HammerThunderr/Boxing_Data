@@ -26,7 +26,7 @@ WDQS = "https://query.wikidata.org/sparql"
 
 # WDQS REQUIRES a descriptive User-Agent with real contact info, or it blocks
 # you. Put your own repo URL / email here before running.
-USER_AGENT = "ManxBoxingAPI/1.0 (https://github.com/HammerThunderr; contact: hammerpunch786@gmail.com)"
+USER_AGENT = "ManxBoxingAPI/1.0 (https://github.com/HammerThunderr; contact: you@example.com)"
 
 OUT_DIR = Path("docs/api")
 FULL_PATH = OUT_DIR / "boxers.json"     # every boxer, full records
@@ -52,7 +52,7 @@ TIMEOUT = 120
 #       enrich it with records from other sources.
 
 QUERY = """
-SELECT ?person ?personLabel ?dob ?dod ?genderLabel ?countryLabel ?birthplaceLabel ?height ?image WHERE {{
+SELECT ?person ?personLabel ?dob ?dod ?genderLabel ?countryLabel ?birthplaceLabel ?height ?image ?article WHERE {{
   ?person wdt:P106 wd:Q11338576 .
   OPTIONAL {{ ?person wdt:P569 ?dob. }}
   OPTIONAL {{ ?person wdt:P570 ?dod. }}
@@ -61,6 +61,7 @@ SELECT ?person ?personLabel ?dob ?dod ?genderLabel ?countryLabel ?birthplaceLabe
   OPTIONAL {{ ?person wdt:P19 ?birthplace. }}
   OPTIONAL {{ ?person wdt:P2048 ?height. }}
   OPTIONAL {{ ?person wdt:P18 ?image. }}
+  OPTIONAL {{ ?article schema:about ?person ; schema:isPartOf <https://en.wikipedia.org/> . }}
   SERVICE wikibase:label {{ bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }}
 }}
 ORDER BY ?person
@@ -104,6 +105,7 @@ def build():
                 "birthplace": None,
                 "height_cm": None,
                 "image": None,
+                "wikipedia": None,
                 "wikidata_url": row["person"]["value"],
             })
             if "personLabel" in row:
@@ -127,6 +129,8 @@ def build():
                     pass
             if "image" in row:
                 b["image"] = row["image"]["value"]
+            if "article" in row:
+                b["wikipedia"] = row["article"]["value"]
         offset += PAGE_SIZE
         print(f"  fetched up to offset {offset} | {len(boxers)} unique boxers so far")
         time.sleep(SLEEP)
