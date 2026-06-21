@@ -18,10 +18,13 @@ jobs:
         with:
           python-version: "3.12"
 
-      - run: pip install requests
+      - run: pip install requests beautifulsoup4 lxml
 
-      - name: Build JSON from Wikidata
+      - name: Build roster from Wikidata
         run: python wikidata_boxers.py
+
+      - name: Enrich with fight records (Wikipedia)
+        run: python enrich_records.py
 
       - name: Commit updated data
         run: |
