@@ -19,6 +19,7 @@ to one row per fighter to keep each request light.
 """
 
 import json
+import os
 import sys
 import time
 from datetime import datetime, timezone
@@ -30,7 +31,10 @@ WDQS = "https://query.wikidata.org/sparql"
 
 # WDQS REQUIRES a descriptive User-Agent with real contact info, or it blocks
 # you. Put your own repo URL / email here before running.
-USER_AGENT = "ManxBoxingAPI/1.0 (https://github.com/HammerThunderr; contact: you@example.com)"
+USER_AGENT = os.environ.get(
+    "WDQS_UA",
+    "BoxingDataApp/1.0 (https://github.com/HammerThunderr/Boxing_Data; contact: hammerpunch786@gmail.com)",
+)
 
 OUT_DIR = Path("docs/api")
 FULL_PATH = OUT_DIR / "boxers.json"
