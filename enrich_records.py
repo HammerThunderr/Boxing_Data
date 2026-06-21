@@ -21,6 +21,7 @@ Usage:
 
 import argparse
 import json
+import os
 import re
 import sys
 import time
@@ -32,7 +33,10 @@ import requests
 API = "https://en.wikipedia.org/w/api.php"
 
 # Set a real contact — Wikipedia asks for it and may throttle generic agents.
-USER_AGENT = "ManxBoxingAPI/1.0 (https://github.com/HammerThunderr; contact: hammerpunch786@gmail.com)"
+USER_AGENT = os.environ.get(
+    "WDQS_UA",
+    "BoxingDataApp/1.0 (https://github.com/HammerThunderr/Boxing_Data; contact: hammerpunch786@gmail.com)",
+)
 
 DATA = Path("docs/api/boxers.json")
 META = Path("docs/api/meta.json")
