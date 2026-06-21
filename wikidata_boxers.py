@@ -4,14 +4,18 @@
 Pulls every person on Wikidata whose occupation is 'boxer' (Q11338576),
 normalises each into clean JSON, and writes:
 
-    docs/api/boxers/index.json   -> summary list of every boxer
-    docs/api/boxers/<QID>.json   -> full record per boxer
-    docs/api/meta.json           -> build metadata (count, generated_at)
+    docs/api/boxers.json   -> every boxer, full records
+    docs/api/index.json    -> slim list for search / list views
+    docs/api/meta.json     -> build metadata (count, generated_at)
 
 Served as static files via GitHub Pages this is a free, read-only,
 REST-ish API that you own outright.
 
 Wikidata is CC0 (public domain) so you can redistribute it however you like.
+
+Pagination uses a keyset cursor (everyone after the last fighter seen) rather
+than OFFSET, so deep pages don't slow down and time out. The query aggregates
+to one row per fighter to keep each request light.
 """
 
 import json
@@ -26,113 +30,132 @@ WDQS = "https://query.wikidata.org/sparql"
 
 # WDQS REQUIRES a descriptive User-Agent with real contact info, or it blocks
 # you. Put your own repo URL / email here before running.
-USER_AGENT = "ManxBoxingAPI/1.0 (https://github.com/HammerThunderr; contact: hammerpunch786@gmail.com)"
+USER_AGENT = "ManxBoxingAPI/1.0 (https://github.com/HammerThunderr; contact: you@example.com)"
 
 OUT_DIR = Path("docs/api")
-FULL_PATH = OUT_DIR / "boxers.json"     # every boxer, full records
-INDEX_PATH = OUT_DIR / "index.json"     # slim list for search / list views
+FULL_PATH = OUT_DIR / "boxers.json"
+INDEX_PATH = OUT_DIR / "index.json"
 META_PATH = OUT_DIR / "meta.json"
 
-PAGE_SIZE = 1000   # rows per request
-SLEEP = 1.0        # seconds between pages — be polite to WDQS
-TIMEOUT = 120
+PAGE_SIZE = 500     # fighters per request
+SLEEP = 1.0         # seconds between pages — be polite to WDQS
+TIMEOUT = 180
+MAX_RETRIES = 5
 
 # Wikidata properties used:
 #   P106  occupation            (filter: Q11338576 = boxer)
 #   P569  date of birth
 #   P570  date of death
 #   P21   sex or gender
-#   P27   country of citizenship   (a boxer can have several -> list)
+#   P27   country of citizenship   (several -> joined list)
 #   P19   place of birth
 #   P2048 height (cm)
-#   P18   image (returns a Commons FilePath URL directly)
+#   P18   image (Commons FilePath URL)
 #
-# NOTE: win/loss/draw RECORDS and REACH are not reliably modelled in Wikidata.
-#       This script gives you the bio + roster layer. See README for how to
-#       enrich it with records from other sources.
+# NOTE: win/loss/draw records are added afterwards by enrich_records.py.
 
+# Placeholders __AFTER__ / __LIMIT__ are substituted at runtime (avoids having
+# to double every brace for str.format).
 QUERY = """
-SELECT ?person ?personLabel ?dob ?dod ?genderLabel ?countryLabel ?birthplaceLabel ?height ?image ?article WHERE {{
+SELECT ?person ?personLabel
+       (SAMPLE(?dob) AS ?dob2)
+       (SAMPLE(?dod) AS ?dod2)
+       (SAMPLE(?genderLabel) AS ?gender2)
+       (GROUP_CONCAT(DISTINCT ?countryLabel; separator="|") AS ?countries2)
+       (SAMPLE(?birthplaceLabel) AS ?birthplace2)
+       (SAMPLE(?height) AS ?height2)
+       (SAMPLE(?image) AS ?image2)
+       (SAMPLE(?article) AS ?article2)
+WHERE {
   ?person wdt:P106 wd:Q11338576 .
-  OPTIONAL {{ ?person wdt:P569 ?dob. }}
-  OPTIONAL {{ ?person wdt:P570 ?dod. }}
-  OPTIONAL {{ ?person wdt:P21 ?gender. }}
-  OPTIONAL {{ ?person wdt:P27 ?country. }}
-  OPTIONAL {{ ?person wdt:P19 ?birthplace. }}
-  OPTIONAL {{ ?person wdt:P2048 ?height. }}
-  OPTIONAL {{ ?person wdt:P18 ?image. }}
-  OPTIONAL {{ ?article schema:about ?person ; schema:isPartOf <https://en.wikipedia.org/> . }}
-  SERVICE wikibase:label {{ bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }}
-}}
+  FILTER(STR(?person) > "__AFTER__")
+  OPTIONAL { ?person wdt:P569 ?dob. }
+  OPTIONAL { ?person wdt:P570 ?dod. }
+  OPTIONAL { ?person wdt:P21 ?gender. }
+  OPTIONAL { ?person wdt:P27 ?country. }
+  OPTIONAL { ?person wdt:P19 ?birthplace. }
+  OPTIONAL { ?person wdt:P2048 ?height. }
+  OPTIONAL { ?person wdt:P18 ?image. }
+  OPTIONAL { ?article schema:about ?person ; schema:isPartOf <https://en.wikipedia.org/> . }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+GROUP BY ?person ?personLabel
 ORDER BY ?person
-LIMIT {limit} OFFSET {offset}
+LIMIT __LIMIT__
 """
 
 
-def run_query(offset):
-    resp = requests.get(
-        WDQS,
-        params={"query": QUERY.format(limit=PAGE_SIZE, offset=offset), "format": "json"},
-        headers={"User-Agent": USER_AGENT, "Accept": "application/sparql-results+json"},
-        timeout=TIMEOUT,
-    )
-    resp.raise_for_status()
-    return resp.json()["results"]["bindings"]
+def run_query(after, attempt=1):
+    q = QUERY.replace("__AFTER__", after).replace("__LIMIT__", str(PAGE_SIZE))
+    try:
+        resp = requests.get(
+            WDQS,
+            params={"query": q, "format": "json"},
+            headers={"User-Agent": USER_AGENT,
+                     "Accept": "application/sparql-results+json"},
+            timeout=TIMEOUT,
+        )
+        resp.raise_for_status()
+        return resp.json()["results"]["bindings"]
+    except requests.exceptions.HTTPError:
+        code = resp.status_code
+        if code in (429, 500, 502, 503, 504) and attempt <= MAX_RETRIES:
+            wait = 5 * attempt
+            print(f"  WDQS {code} — retrying in {wait}s (attempt {attempt}/{MAX_RETRIES})")
+            time.sleep(wait)
+            return run_query(after, attempt + 1)
+        raise
 
 
 def qid_from_uri(uri):
     return uri.rsplit("/", 1)[-1]
 
 
+def _val(row, key):
+    cell = row.get(key)
+    return cell["value"] if cell and cell.get("value") else None
+
+
+def _to_cm(value):
+    if not value:
+        return None
+    try:
+        return round(float(value))
+    except ValueError:
+        return None
+
+
 def build():
-    """Fetch all boxers, merging the multiple rows WDQS returns per person
-    (one row per citizenship/value combination) into a single record."""
     boxers = {}
-    offset = 0
+    after = ""
+    page = 0
     while True:
-        rows = run_query(offset)
+        rows = run_query(after)
         if not rows:
             break
         for row in rows:
-            qid = qid_from_uri(row["person"]["value"])
-            b = boxers.setdefault(qid, {
+            uri = row["person"]["value"]
+            qid = qid_from_uri(uri)
+            countries_raw = _val(row, "countries2") or ""
+            countries = [c for c in countries_raw.split("|") if c]
+            dob = _val(row, "dob2")
+            dod = _val(row, "dod2")
+            boxers[qid] = {
                 "id": qid,
-                "name": qid,
-                "date_of_birth": None,
-                "date_of_death": None,
-                "gender": None,
-                "countries": [],
-                "birthplace": None,
-                "height_cm": None,
-                "image": None,
-                "wikipedia": None,
-                "wikidata_url": row["person"]["value"],
-            })
-            if "personLabel" in row:
-                b["name"] = row["personLabel"]["value"]
-            if "dob" in row:
-                b["date_of_birth"] = row["dob"]["value"][:10]
-            if "dod" in row:
-                b["date_of_death"] = row["dod"]["value"][:10]
-            if "genderLabel" in row:
-                b["gender"] = row["genderLabel"]["value"]
-            if "countryLabel" in row:
-                country = row["countryLabel"]["value"]
-                if country not in b["countries"]:
-                    b["countries"].append(country)
-            if "birthplaceLabel" in row:
-                b["birthplace"] = row["birthplaceLabel"]["value"]
-            if "height" in row:
-                try:
-                    b["height_cm"] = round(float(row["height"]["value"]))
-                except ValueError:
-                    pass
-            if "image" in row:
-                b["image"] = row["image"]["value"]
-            if "article" in row:
-                b["wikipedia"] = row["article"]["value"]
-        offset += PAGE_SIZE
-        print(f"  fetched up to offset {offset} | {len(boxers)} unique boxers so far")
+                "name": _val(row, "personLabel") or qid,
+                "date_of_birth": dob[:10] if dob else None,
+                "date_of_death": dod[:10] if dod else None,
+                "gender": _val(row, "gender2"),
+                "countries": countries,
+                "birthplace": _val(row, "birthplace2"),
+                "height_cm": _to_cm(_val(row, "height2")),
+                "image": _val(row, "image2"),
+                "wikipedia": _val(row, "article2"),
+                "wikidata_url": uri,
+            }
+        after = rows[-1]["person"]["value"]
+        page += 1
+        print(f"  page {page} | through {qid_from_uri(after)} | {len(boxers)} boxers")
         time.sleep(SLEEP)
     return boxers
 
@@ -141,12 +164,10 @@ def write(boxers):
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     records = [b for _, b in sorted(boxers.items())]
 
-    # Full dataset — one file, fetched once and cached client-side.
     FULL_PATH.write_text(
         json.dumps(records, ensure_ascii=False, indent=2), encoding="utf-8"
     )
 
-    # Slim index for fast list / search views.
     index = [{"id": b["id"], "name": b["name"], "countries": b["countries"]}
              for b in records]
     INDEX_PATH.write_text(
