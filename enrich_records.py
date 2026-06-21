@@ -32,7 +32,7 @@ import requests
 API = "https://en.wikipedia.org/w/api.php"
 
 # Set a real contact — Wikipedia asks for it and may throttle generic agents.
-USER_AGENT = "ManxBoxingAPI/1.0 (https://github.com/HammerThunderr; contact: you@example.com)"
+USER_AGENT = "ManxBoxingAPI/1.0 (https://github.com/HammerThunderr; contact: hammerpunch786@gmail.com)"
 
 DATA = Path("docs/api/boxers.json")
 META = Path("docs/api/meta.json")
