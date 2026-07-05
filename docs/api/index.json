@@ -22470,11 +22470,6 @@
     "countries": []
   },
   {
-    "id": "Q137150772",
-    "name": "Q137150772",
-    "countries": []
-  },
-  {
     "id": "Q137162221",
     "name": "Q137162221",
     "countries": []
@@ -22632,6 +22627,11 @@
   {
     "id": "Q137385481",
     "name": "Bair Batlayev",
+    "countries": []
+  },
+  {
+    "id": "Q137394651",
+    "name": "Arman Makhanov",
     "countries": []
   },
   {
@@ -23667,11 +23667,6 @@
   {
     "id": "Q139902989",
     "name": "Q139902989",
-    "countries": []
-  },
-  {
-    "id": "Q139947467",
-    "name": "Arman Makhanov",
     "countries": []
   },
   {
@@ -25491,7 +25486,7 @@
   },
   {
     "id": "Q140180799",
-    "name": "Q140180799",
+    "name": "Wiktor Nowak",
     "countries": []
   },
   {
@@ -26186,7 +26181,7 @@
   },
   {
     "id": "Q140363026",
-    "name": "Q140363026",
+    "name": "Granit Shala",
     "countries": []
   },
   {
@@ -26195,8 +26190,28 @@
     "countries": []
   },
   {
+    "id": "Q140374127",
+    "name": "Alexander Hayes Munroe",
+    "countries": []
+  },
+  {
     "id": "Q1403911",
     "name": "Felix Wouters",
+    "countries": []
+  },
+  {
+    "id": "Q140421609",
+    "name": "Jordan Panthen",
+    "countries": []
+  },
+  {
+    "id": "Q140425025",
+    "name": "Q140425025",
+    "countries": []
+  },
+  {
+    "id": "Q140431175",
+    "name": "Adam Sindigué",
     "countries": []
   },
   {
@@ -50037,11 +50052,6 @@
   {
     "id": "Q3065142",
     "name": "Rodolfo López",
-    "countries": []
-  },
-  {
-    "id": "Q3065217",
-    "name": "Hilton family",
     "countries": []
   },
   {
@@ -82342,6 +82352,11 @@
   {
     "id": "Q654376",
     "name": "Robert Pastorelli",
+    "countries": []
+  },
+  {
+    "id": "Q65450992",
+    "name": "Q65450992",
     "countries": []
   },
   {
