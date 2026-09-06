@@ -4369,11 +4369,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Vito_Mielnicki_Jr.",
     "wikidata_url": "http://www.wikidata.org/entity/Q106916425",
     "record": {
-      "wins": 23,
+      "wins": 24,
       "losses": 1,
       "draws": null,
       "ko_wins": 13,
-      "total": 25,
+      "total": 26,
       "no_contests": 1
     }
   },
@@ -5837,11 +5837,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Mauricio_Lara",
     "wikidata_url": "http://www.wikidata.org/entity/Q107626126",
     "record": {
-      "wins": 28,
+      "wins": 31,
       "losses": 3,
       "draws": 2,
-      "ko_wins": 21,
-      "total": 33,
+      "ko_wins": 24,
+      "total": 36,
       "no_contests": null
     }
   },
@@ -9460,7 +9460,7 @@
     "gender": null,
     "countries": [],
     "birthplace": null,
-    "height_cm": 187,
+    "height_cm": 196,
     "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NursultonRuziboev2024.png",
     "wikipedia": "https://en.wikipedia.org/wiki/Nursulton_Ruziboev",
     "wikidata_url": "http://www.wikidata.org/entity/Q109493783"
@@ -10192,7 +10192,7 @@
     "id": "Q109929513",
     "name": "Oscar Carlsson",
     "date_of_birth": null,
-    "date_of_death": null,
+    "date_of_death": "1949-06-26",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -16282,7 +16282,15 @@
     "height_cm": null,
     "image": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Amelia_Moore",
-    "wikidata_url": "http://www.wikidata.org/entity/Q113133330"
+    "wikidata_url": "http://www.wikidata.org/entity/Q113133330",
+    "record": {
+      "wins": 4,
+      "losses": 1,
+      "draws": null,
+      "ko_wins": 1,
+      "total": 5,
+      "no_contests": null
+    }
   },
   {
     "id": "Q11313618",
@@ -17718,11 +17726,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Taylor_Bevan",
     "wikidata_url": "http://www.wikidata.org/entity/Q113464183",
     "record": {
-      "wins": 9,
+      "wins": 10,
       "losses": null,
       "draws": null,
-      "ko_wins": 8,
-      "total": 9,
+      "ko_wins": 9,
+      "total": 10,
       "no_contests": null
     }
   },
@@ -21431,11 +21439,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Paddy_Donovan_(Irish_boxer)",
     "wikidata_url": "http://www.wikidata.org/entity/Q115009704",
     "record": {
-      "wins": 15,
+      "wins": 16,
       "losses": 2,
       "draws": null,
-      "ko_wins": 11,
-      "total": 17,
+      "ko_wins": 12,
+      "total": 18,
       "no_contests": null
     }
   },
@@ -26522,6 +26530,27 @@
     "image": null,
     "wikipedia": null,
     "wikidata_url": "http://www.wikidata.org/entity/Q11693115"
+  },
+  {
+    "id": "Q116936233",
+    "name": "Q116936233",
+    "date_of_birth": "1999-10-26",
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Takeshi_Ishii",
+    "wikidata_url": "http://www.wikidata.org/entity/Q116936233",
+    "record": {
+      "wins": 12,
+      "losses": 1,
+      "draws": null,
+      "ko_wins": 9,
+      "total": 13,
+      "no_contests": null
+    }
   },
   {
     "id": "Q116936243",
@@ -40075,11 +40104,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Damian_Knyba",
     "wikidata_url": "http://www.wikidata.org/entity/Q125270583",
     "record": {
-      "wins": 17,
+      "wins": 18,
       "losses": 1,
       "draws": null,
       "ko_wins": 11,
-      "total": 18,
+      "total": 19,
       "no_contests": null
     }
   },
@@ -40816,6 +40845,27 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q125543572"
   },
   {
+    "id": "Q125546025",
+    "name": "Sam Noakes",
+    "date_of_birth": "1997-01-01",
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Sam_Noakes",
+    "wikidata_url": "http://www.wikidata.org/entity/Q125546025",
+    "record": {
+      "wins": 19,
+      "losses": 1,
+      "draws": null,
+      "ko_wins": 16,
+      "total": 20,
+      "no_contests": null
+    }
+  },
+  {
     "id": "Q125548509",
     "name": "Larry Carlisle",
     "date_of_birth": null,
@@ -41151,11 +41201,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Taras_Shelestyuk",
     "wikidata_url": "http://www.wikidata.org/entity/Q1257290",
     "record": {
-      "wins": 19,
+      "wins": 22,
       "losses": 0,
       "draws": 1,
-      "ko_wins": 11,
-      "total": 20,
+      "ko_wins": 12,
+      "total": 23,
       "no_contests": null
     }
   },
@@ -51128,11 +51178,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Najee_Lopez",
     "wikidata_url": "http://www.wikidata.org/entity/Q131449317",
     "record": {
-      "wins": 16,
-      "losses": 0,
+      "wins": 17,
+      "losses": null,
       "draws": null,
-      "ko_wins": 13,
-      "total": 16,
+      "ko_wins": 14,
+      "total": 17,
       "no_contests": null
     }
   },
@@ -52145,12 +52195,12 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Zaquin_Moses",
     "wikidata_url": "http://www.wikidata.org/entity/Q132188475",
     "record": {
-      "wins": 6,
+      "wins": 8,
       "losses": 0,
-      "draws": null,
+      "draws": 0,
       "ko_wins": 3,
-      "total": 6,
-      "no_contests": null
+      "total": 8,
+      "no_contests": 0
     }
   },
   {
@@ -53028,10 +53078,10 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q132856622",
     "record": {
       "wins": 20,
-      "losses": 2,
+      "losses": 3,
       "draws": null,
       "ko_wins": 13,
-      "total": 22,
+      "total": 23,
       "no_contests": null
     }
   },
@@ -56756,11 +56806,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Wilkens_Mathieu",
     "wikidata_url": "http://www.wikidata.org/entity/Q134883865",
     "record": {
-      "wins": 13,
+      "wins": 16,
       "losses": null,
       "draws": null,
-      "ko_wins": 9,
-      "total": 13,
+      "ko_wins": 11,
+      "total": 16,
       "no_contests": null
     }
   },
@@ -56866,11 +56916,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Jhon_Orobio",
     "wikidata_url": "http://www.wikidata.org/entity/Q134893981",
     "record": {
-      "wins": 18,
+      "wins": 19,
       "losses": null,
       "draws": null,
-      "ko_wins": 16,
-      "total": 18,
+      "ko_wins": 17,
+      "total": 19,
       "no_contests": null
     }
   },
@@ -59169,19 +59219,6 @@
       "total": null,
       "no_contests": null
     }
-  },
-  {
-    "id": "Q135431737",
-    "name": "Kivumbi Badru",
-    "date_of_birth": null,
-    "date_of_death": null,
-    "gender": null,
-    "countries": [],
-    "birthplace": null,
-    "height_cm": null,
-    "image": null,
-    "wikipedia": null,
-    "wikidata_url": "http://www.wikidata.org/entity/Q135431737"
   },
   {
     "id": "Q135431742",
@@ -62445,7 +62482,7 @@
     "countries": [],
     "birthplace": null,
     "height_cm": null,
-    "image": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fazliddin%20Erkinboev.jpg",
     "wikipedia": "https://en.wikipedia.org/wiki/Fazliddin_Erkinboev",
     "wikidata_url": "http://www.wikidata.org/entity/Q136262012"
   },
@@ -65262,7 +65299,7 @@
   {
     "id": "Q136816466",
     "name": "Q136816466",
-    "date_of_birth": null,
+    "date_of_birth": "2001-01-20",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -70117,11 +70154,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Pawe%C5%82_St%C4%99pie%C5%84",
     "wikidata_url": "http://www.wikidata.org/entity/Q139774285",
     "record": {
-      "wins": 20,
+      "wins": 21,
       "losses": 2,
       "draws": 2,
       "ko_wins": 12,
-      "total": 24,
+      "total": 25,
       "no_contests": 0
     }
   },
@@ -77872,13 +77909,13 @@
   },
   {
     "id": "Q140626451",
-    "name": "Q140626451",
+    "name": "Hannah Rapp",
     "date_of_birth": "1999-07-29",
     "date_of_death": "2026-07-18",
     "gender": null,
     "countries": [],
     "birthplace": null,
-    "height_cm": null,
+    "height_cm": 170,
     "image": null,
     "wikipedia": null,
     "wikidata_url": "http://www.wikidata.org/entity/Q140626451"
@@ -80151,6 +80188,66 @@
     "image": null,
     "wikipedia": null,
     "wikidata_url": "http://www.wikidata.org/entity/Q1412332"
+  },
+  {
+    "id": "Q141244707",
+    "name": "Q141244707",
+    "date_of_birth": "1963-08-31",
+    "date_of_death": "2000-12-15",
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": null,
+    "wikidata_url": "http://www.wikidata.org/entity/Q141244707"
+  },
+  {
+    "id": "Q141249826",
+    "name": "Q141249826",
+    "date_of_birth": "1906-01-01",
+    "date_of_death": "1930-10-04",
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": 177,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anton%20Gabiola.jpg",
+    "wikipedia": null,
+    "wikidata_url": "http://www.wikidata.org/entity/Q141249826"
+  },
+  {
+    "id": "Q141258981",
+    "name": "Jerry Forrest",
+    "date_of_birth": "1988-04-08",
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Jerry_Forrest",
+    "wikidata_url": "http://www.wikidata.org/entity/Q141258981",
+    "record": {
+      "wins": 30,
+      "losses": 6,
+      "draws": 2,
+      "ko_wins": 22,
+      "total": 38,
+      "no_contests": null
+    }
+  },
+  {
+    "id": "Q141275068",
+    "name": "Q141275068",
+    "date_of_birth": "1893-08-06",
+    "date_of_death": "1950-12-11",
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/L%C3%A9on%20Bernstein%20%28boxeur%29%20-%20btv1b53112643r.jpg",
+    "wikipedia": null,
+    "wikidata_url": "http://www.wikidata.org/entity/Q141275068"
   },
   {
     "id": "Q1414449",
@@ -87179,7 +87276,7 @@
     "countries": [],
     "birthplace": null,
     "height_cm": null,
-    "image": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/P.%20O.%20Curran%20%28boxeur%29%20-%20btv1b531125653.jpg",
     "wikipedia": "https://en.wikipedia.org/wiki/Matthew_Curran",
     "wikidata_url": "http://www.wikidata.org/entity/Q16023211",
     "record": {
@@ -102451,10 +102548,10 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q16980062",
     "record": {
       "wins": 22,
-      "losses": 2,
+      "losses": 3,
       "draws": null,
       "ko_wins": 5,
-      "total": 24,
+      "total": 25,
       "no_contests": null
     }
   },
@@ -105924,7 +106021,7 @@
   {
     "id": "Q17811396",
     "name": "Sadegh Aliakbarzadeh",
-    "date_of_birth": "1932-09-04",
+    "date_of_birth": "1932-09-03",
     "date_of_death": "2007-01-01",
     "gender": null,
     "countries": [],
@@ -110406,11 +110503,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Michael_Hunter_(American_boxer)",
     "wikidata_url": "http://www.wikidata.org/entity/Q1927929",
     "record": {
-      "wins": 24,
+      "wins": 25,
       "losses": 1,
       "draws": 2,
-      "ko_wins": 17,
-      "total": 27,
+      "ko_wins": 18,
+      "total": 28,
       "no_contests": null
     }
   },
@@ -120669,7 +120766,7 @@
     "id": "Q20090248",
     "name": "Jimmy Batten",
     "date_of_birth": "1955-11-07",
-    "date_of_death": null,
+    "date_of_death": "2026-09-01",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -123519,7 +123616,7 @@
   {
     "id": "Q20482093",
     "name": "Michael O'Reilly",
-    "date_of_birth": "1993-04-30",
+    "date_of_birth": "1993-03-30",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -129936,7 +130033,7 @@
   {
     "id": "Q21684157",
     "name": "Antipatros of Miletus",
-    "date_of_birth": "-0400-01-0",
+    "date_of_birth": "-0500-01-0",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -131936,10 +132033,10 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q2272895",
     "record": {
       "wins": 19,
-      "losses": 2,
+      "losses": 3,
       "draws": null,
       "ko_wins": 14,
-      "total": 22,
+      "total": 23,
       "no_contests": 1
     }
   },
@@ -133090,11 +133187,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Senad_Gashi",
     "wikidata_url": "http://www.wikidata.org/entity/Q23060842",
     "record": {
-      "wins": 35,
+      "wins": 36,
       "losses": 5,
       "draws": null,
-      "ko_wins": 33,
-      "total": 41,
+      "ko_wins": 34,
+      "total": 42,
       "no_contests": 1
     }
   },
@@ -142101,9 +142198,9 @@
     "record": {
       "wins": 14,
       "losses": 3,
-      "draws": 1,
+      "draws": 2,
       "ko_wins": 12,
-      "total": 18,
+      "total": 19,
       "no_contests": null
     }
   },
@@ -150853,7 +150950,7 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q290543",
     "record": {
       "wins": 16,
-      "losses": 6,
+      "losses": 7,
       "draws": null,
       "ko_wins": 11,
       "total": 22,
@@ -153100,8 +153197,8 @@
       "losses": 9,
       "draws": 2,
       "ko_wins": 20,
-      "total": 38,
-      "no_contests": null
+      "total": 39,
+      "no_contests": 1
     }
   },
   {
@@ -188444,10 +188541,10 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q4761262",
     "record": {
       "wins": 35,
-      "losses": 2,
+      "losses": 3,
       "draws": 1,
       "ko_wins": 22,
-      "total": 38,
+      "total": 39,
       "no_contests": null
     }
   },
@@ -195787,10 +195884,10 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q50736670",
     "record": {
       "wins": 28,
-      "losses": 3,
+      "losses": 4,
       "draws": 1,
       "ko_wins": 20,
-      "total": 32,
+      "total": 33,
       "no_contests": null
     }
   },
@@ -202415,7 +202512,7 @@
       "losses": 8,
       "draws": 2,
       "ko_wins": 28,
-      "total": 71,
+      "total": 67,
       "no_contests": 2
     }
   },
@@ -250771,7 +250868,15 @@
     "height_cm": 184,
     "image": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Juan_Carlos_Carrillo",
-    "wikidata_url": "http://www.wikidata.org/entity/Q6455606"
+    "wikidata_url": "http://www.wikidata.org/entity/Q6455606",
+    "record": {
+      "wins": 15,
+      "losses": 1,
+      "draws": null,
+      "ko_wins": 11,
+      "total": 16,
+      "no_contests": null
+    }
   },
   {
     "id": "Q64585041",
@@ -255822,10 +255927,10 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q66733667",
     "record": {
       "wins": 20,
-      "losses": 3,
-      "draws": 1,
+      "losses": 4,
+      "draws": 2,
       "ko_wins": 6,
-      "total": 24,
+      "total": 26,
       "no_contests": null
     }
   },
@@ -262732,11 +262837,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Tori-Ellis_Willetts",
     "wikidata_url": "http://www.wikidata.org/entity/Q70206618",
     "record": {
-      "wins": 6,
-      "losses": 1,
+      "wins": 7,
+      "losses": 2,
       "draws": null,
       "ko_wins": 1,
-      "total": 7,
+      "total": 9,
       "no_contests": null
     }
   },
@@ -265241,12 +265346,12 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Pat_O%27Keeffe",
     "wikidata_url": "http://www.wikidata.org/entity/Q7143866",
     "record": {
-      "wins": 89,
+      "wins": 88,
       "losses": 25,
       "draws": 7,
       "ko_wins": 36,
-      "total": 123,
-      "no_contests": 2
+      "total": 131,
+      "no_contests": 11
     }
   },
   {
@@ -275056,11 +275161,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Terri_Harper",
     "wikidata_url": "http://www.wikidata.org/entity/Q75184860",
     "record": {
-      "wins": 16,
+      "wins": 17,
       "losses": 3,
       "draws": 2,
-      "ko_wins": 6,
-      "total": 21,
+      "ko_wins": 7,
+      "total": 22,
       "no_contests": null
     }
   },
@@ -276365,7 +276470,7 @@
     "countries": [],
     "birthplace": null,
     "height_cm": null,
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Voyager%20Chakotay%20DALL-E.jpg",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Beltran.jpg",
     "wikipedia": "https://en.wikipedia.org/wiki/Chakotay",
     "wikidata_url": "http://www.wikidata.org/entity/Q766141"
   },
@@ -278770,15 +278875,15 @@
   },
   {
     "id": "Q7823034",
-    "name": "Tony Mundine",
+    "name": "Q7823034",
     "date_of_birth": "1951-06-10",
-    "date_of_death": null,
+    "date_of_death": "2026-08-30",
     "gender": null,
     "countries": [],
     "birthplace": null,
     "height_cm": 182,
     "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tony%20Mundine%201973.jpg",
-    "wikipedia": "https://en.wikipedia.org/wiki/Tony_Mundine_(boxer)",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tony_Mundine",
     "wikidata_url": "http://www.wikidata.org/entity/Q7823034",
     "record": {
       "wins": 80,
@@ -283643,15 +283748,7 @@
     "height_cm": 178,
     "image": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Jaron_Ennis",
-    "wikidata_url": "http://www.wikidata.org/entity/Q82831726",
-    "record": {
-      "wins": 36,
-      "losses": null,
-      "draws": null,
-      "ko_wins": 32,
-      "total": 37,
-      "no_contests": 1
-    }
+    "wikidata_url": "http://www.wikidata.org/entity/Q82831726"
   },
   {
     "id": "Q829871",
@@ -284450,7 +284547,7 @@
     "countries": [],
     "birthplace": null,
     "height_cm": 188,
-    "image": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Otto%20Wanz%20with%20AWA%20Championship.jpg",
     "wikipedia": "https://en.wikipedia.org/wiki/Otto_Wanz",
     "wikidata_url": "http://www.wikidata.org/entity/Q85652"
   },
@@ -286725,7 +286822,7 @@
     "birthplace": null,
     "height_cm": null,
     "image": null,
-    "wikipedia": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Manuel_Calvo_Fern%C3%A1ndez",
     "wikidata_url": "http://www.wikidata.org/entity/Q9027678"
   },
   {
@@ -298092,11 +298189,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Willy_Hutchinson",
     "wikidata_url": "http://www.wikidata.org/entity/Q99454396",
     "record": {
-      "wins": 19,
+      "wins": 20,
       "losses": 2,
       "draws": null,
       "ko_wins": 14,
-      "total": 21,
+      "total": 22,
       "no_contests": null
     }
   },
