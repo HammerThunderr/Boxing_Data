@@ -1171,7 +1171,7 @@
   {
     "id": "Q10285543",
     "name": "Frankie Neil",
-    "date_of_birth": "1883-07-01",
+    "date_of_birth": "1883-07-25",
     "date_of_death": "1970-03-06",
     "gender": null,
     "countries": [],
@@ -2188,10 +2188,10 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q104538652",
     "record": {
       "wins": 3,
-      "losses": null,
+      "losses": 1,
       "draws": null,
       "ko_wins": 2,
-      "total": 4,
+      "total": 5,
       "no_contests": 1
     }
   },
@@ -3769,7 +3769,7 @@
   {
     "id": "Q1065512",
     "name": "Kid McCoy",
-    "date_of_birth": "1873-10-13",
+    "date_of_birth": "1872-10-13",
     "date_of_death": "1940-04-18",
     "gender": null,
     "countries": [],
@@ -4464,10 +4464,10 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q106994974",
     "record": {
       "wins": 11,
-      "losses": 1,
+      "losses": 2,
       "draws": null,
       "ko_wins": 2,
-      "total": 12,
+      "total": 13,
       "no_contests": null
     }
   },
@@ -5553,7 +5553,7 @@
   {
     "id": "Q107557761",
     "name": "Yankiel Rivera",
-    "date_of_birth": "1997-01-01",
+    "date_of_birth": "1997-09-10",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -5835,7 +5835,7 @@
   {
     "id": "Q107626126",
     "name": "Mauricio Lara",
-    "date_of_birth": "1998-01-01",
+    "date_of_birth": "1998-02-23",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -6067,7 +6067,7 @@
   {
     "id": "Q107636175",
     "name": "Brian Arregui",
-    "date_of_birth": "2000-01-01",
+    "date_of_birth": "2000-01-15",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -6330,7 +6330,7 @@
   {
     "id": "Q107671116",
     "name": "Ramón Quiroga",
-    "date_of_birth": "1997-01-01",
+    "date_of_birth": "1997-08-26",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -6343,7 +6343,7 @@
   {
     "id": "Q107671129",
     "name": "Cosmin Girleanu",
-    "date_of_birth": "1999-01-01",
+    "date_of_birth": "1999-06-03",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -6403,7 +6403,7 @@
   {
     "id": "Q107673484",
     "name": "Ornella Havyarimana",
-    "date_of_birth": "1994-01-01",
+    "date_of_birth": "1994-09-01",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -6742,7 +6742,7 @@
   {
     "id": "Q107689714",
     "name": "Paulo Aokuso",
-    "date_of_birth": "1997-01-01",
+    "date_of_birth": "1997-05-20",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -6755,7 +6755,7 @@
   {
     "id": "Q107690107",
     "name": "Abner Teixeira",
-    "date_of_birth": "1996-01-01",
+    "date_of_birth": "1996-09-10",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -6789,7 +6789,7 @@
   {
     "id": "Q107690145",
     "name": "Emmett Brennan",
-    "date_of_birth": "1991-01-01",
+    "date_of_birth": "1991-05-04",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -6810,7 +6810,7 @@
   {
     "id": "Q107690153",
     "name": "Nalek Korbaj",
-    "date_of_birth": "1995-01-01",
+    "date_of_birth": "1995-10-08",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -7691,7 +7691,7 @@
   {
     "id": "Q108322384",
     "name": "Nathaniel Collins",
-    "date_of_birth": "1996-01-01",
+    "date_of_birth": "1996-08-12",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -7775,7 +7775,7 @@
   {
     "id": "Q108380369",
     "name": "Sanzhar Tashkenbay",
-    "date_of_birth": "2003-01-01",
+    "date_of_birth": "2003-06-01",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -8831,7 +8831,7 @@
   {
     "id": "Q109426256",
     "name": "Isaac Cruz",
-    "date_of_birth": "1998-01-01",
+    "date_of_birth": "1998-05-23",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -9815,7 +9815,7 @@
   {
     "id": "Q109600684",
     "name": "Yoenli Hernández Martinez",
-    "date_of_birth": "1997-01-01",
+    "date_of_birth": "1997-06-30",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -10143,7 +10143,7 @@
     "id": "Q109880",
     "name": "Jupp Besselmann",
     "date_of_birth": "1909-11-21",
-    "date_of_death": "1983-01-01",
+    "date_of_death": "1983-05-26",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -10789,7 +10789,7 @@
   {
     "id": "Q110191903",
     "name": "Liam Paro",
-    "date_of_birth": "1996-01-01",
+    "date_of_birth": "1996-04-16",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -12728,11 +12728,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Omari_Jones",
     "wikidata_url": "http://www.wikidata.org/entity/Q111684756",
     "record": {
-      "wins": 6,
+      "wins": 8,
       "losses": 0,
       "draws": null,
-      "ko_wins": 4,
-      "total": 6,
+      "ko_wins": 5,
+      "total": 8,
       "no_contests": 0
     }
   },
@@ -13107,7 +13107,7 @@
   {
     "id": "Q112057392",
     "name": "Gabrielė Stonkutė",
-    "date_of_birth": "2001-01-01",
+    "date_of_birth": "2001-04-18",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -13730,11 +13730,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Lewis_Richardson_(boxer)",
     "wikidata_url": "http://www.wikidata.org/entity/Q112180797",
     "record": {
-      "wins": 2,
+      "wins": 3,
       "losses": null,
       "draws": null,
       "ko_wins": null,
-      "total": 2,
+      "total": 3,
       "no_contests": null
     }
   },
@@ -21419,7 +21419,7 @@
   {
     "id": "Q114986089",
     "name": "Stefanie von Berge",
-    "date_of_birth": null,
+    "date_of_birth": "2001-03-19",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -21840,19 +21840,6 @@
     "image": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Manfred_Homberg",
     "wikidata_url": "http://www.wikidata.org/entity/Q115244"
-  },
-  {
-    "id": "Q115254265",
-    "name": "Q115254265",
-    "date_of_birth": "1973-06-09",
-    "date_of_death": null,
-    "gender": null,
-    "countries": [],
-    "birthplace": null,
-    "height_cm": null,
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F%202013.jpg",
-    "wikipedia": null,
-    "wikidata_url": "http://www.wikidata.org/entity/Q115254265"
   },
   {
     "id": "Q115258155",
@@ -23018,7 +23005,7 @@
   {
     "id": "Q115618290",
     "name": "Marcel Schneider",
-    "date_of_birth": null,
+    "date_of_birth": "1986-03-19",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -28705,7 +28692,7 @@
     "id": "Q11767355",
     "name": "Marcel Sîrba",
     "date_of_birth": "1957-10-01",
-    "date_of_death": null,
+    "date_of_death": "2025-01-01",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -30534,7 +30521,7 @@
   {
     "id": "Q118928522",
     "name": "Samet Gümüş",
-    "date_of_birth": "2001-01-01",
+    "date_of_birth": "2001-05-09",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -31884,9 +31871,9 @@
   },
   {
     "id": "Q120268306",
-    "name": "Q120268306",
-    "date_of_birth": null,
-    "date_of_death": null,
+    "name": "Kureysh Sagov",
+    "date_of_birth": "1991-06-20",
+    "date_of_death": "2026-09-28",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -38375,7 +38362,7 @@
   {
     "id": "Q1243872",
     "name": "Dorel Simion",
-    "date_of_birth": "1977-01-01",
+    "date_of_birth": "1977-02-13",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -39982,7 +39969,7 @@
   {
     "id": "Q125197748",
     "name": "Svetlana Staneva",
-    "date_of_birth": "1990-01-01",
+    "date_of_birth": "1990-06-26",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -40089,7 +40076,7 @@
   {
     "id": "Q125257938",
     "name": "Kacper Meyna",
-    "date_of_birth": "1999-01-01",
+    "date_of_birth": "1999-06-10",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -40123,7 +40110,7 @@
   {
     "id": "Q125270583",
     "name": "Damian Knyba",
-    "date_of_birth": "1996-01-01",
+    "date_of_birth": "1996-01-25",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -41743,7 +41730,7 @@
   {
     "id": "Q125921794",
     "name": "Attila Bernáth",
-    "date_of_birth": null,
+    "date_of_birth": "2000-02-04",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -42134,11 +42121,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Sam_Goodman_(boxer)",
     "wikidata_url": "http://www.wikidata.org/entity/Q126006216",
     "record": {
-      "wins": 22,
+      "wins": 23,
       "losses": 1,
       "draws": null,
       "ko_wins": 8,
-      "total": 23,
+      "total": 24,
       "no_contests": null
     }
   },
@@ -43371,7 +43358,7 @@
   {
     "id": "Q127315638",
     "name": "Abdullah Mason",
-    "date_of_birth": "2004-01-01",
+    "date_of_birth": "2004-04-05",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -44501,7 +44488,7 @@
   {
     "id": "Q128314891",
     "name": "Turabek Khabibullaev",
-    "date_of_birth": "2004-01-01",
+    "date_of_birth": "2004-04-09",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -44587,7 +44574,7 @@
   {
     "id": "Q128406066",
     "name": "Maxi Klotzer",
-    "date_of_birth": "2000-01-01",
+    "date_of_birth": "2000-09-05",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -44634,7 +44621,7 @@
   {
     "id": "Q128454312",
     "name": "José Valenzuela",
-    "date_of_birth": "1999-01-01",
+    "date_of_birth": "1999-05-25",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -51218,7 +51205,7 @@
   {
     "id": "Q131449410",
     "name": "Dirk Schäfer",
-    "date_of_birth": "1961-01-01",
+    "date_of_birth": "1961-09-04",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -51557,7 +51544,7 @@
   {
     "id": "Q1317805",
     "name": "Thorsten Spürgin",
-    "date_of_birth": "1960-01-01",
+    "date_of_birth": "1960-02-09",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -52091,7 +52078,7 @@
   {
     "id": "Q132125961",
     "name": "Q132125961",
-    "date_of_birth": null,
+    "date_of_birth": "2004-03-20",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -52162,10 +52149,10 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q132175033",
     "record": {
       "wins": 19,
-      "losses": 2,
+      "losses": 3,
       "draws": 1,
       "ko_wins": 6,
-      "total": 23,
+      "total": 24,
       "no_contests": 1
     }
   },
@@ -53440,10 +53427,10 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q133097738",
     "record": {
       "wins": 17,
-      "losses": 2,
+      "losses": 3,
       "draws": null,
       "ko_wins": 0,
-      "total": 19,
+      "total": 20,
       "no_contests": null
     }
   },
@@ -53881,11 +53868,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Ricardo_Malajika",
     "wikidata_url": "http://www.wikidata.org/entity/Q133317507",
     "record": {
-      "wins": 17,
+      "wins": 18,
       "losses": 2,
       "draws": 12,
       "ko_wins": 12,
-      "total": 19,
+      "total": 20,
       "no_contests": null
     }
   },
@@ -56161,11 +56148,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Gerome_Warburton",
     "wikidata_url": "http://www.wikidata.org/entity/Q134571854",
     "record": {
-      "wins": 17,
+      "wins": 18,
       "losses": 2,
       "draws": 2,
       "ko_wins": 2,
-      "total": 21,
+      "total": 22,
       "no_contests": null
     }
   },
@@ -56361,7 +56348,7 @@
     "countries": [],
     "birthplace": null,
     "height_cm": null,
-    "image": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gianfranco%20Cianconi%20Arma%20Carabinieri.jpg",
     "wikipedia": null,
     "wikidata_url": "http://www.wikidata.org/entity/Q134612150"
   },
@@ -60099,7 +60086,7 @@
   },
   {
     "id": "Q135676707",
-    "name": "Q135676707",
+    "name": "Quinton Hillocks",
     "date_of_birth": "1987-08-16",
     "date_of_death": null,
     "gender": null,
@@ -60462,7 +60449,7 @@
     "countries": [],
     "birthplace": null,
     "height_cm": null,
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/BakBak.jpg",
+    "image": null,
     "wikipedia": null,
     "wikidata_url": "http://www.wikidata.org/entity/Q135901215"
   },
@@ -62224,7 +62211,15 @@
     "height_cm": null,
     "image": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Odel_Kamara",
-    "wikidata_url": "http://www.wikidata.org/entity/Q136213517"
+    "wikidata_url": "http://www.wikidata.org/entity/Q136213517",
+    "record": {
+      "wins": 1,
+      "losses": null,
+      "draws": null,
+      "ko_wins": 1,
+      "total": 1,
+      "no_contests": null
+    }
   },
   {
     "id": "Q136213866",
@@ -63782,7 +63777,7 @@
   },
   {
     "id": "Q136545929",
-    "name": "Q136545929",
+    "name": "Wayne Scott-Fox",
     "date_of_birth": null,
     "date_of_death": null,
     "gender": null,
@@ -67497,7 +67492,7 @@
   {
     "id": "Q137555234",
     "name": "Q137555234",
-    "date_of_birth": null,
+    "date_of_birth": "2002-03-31",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -68498,7 +68493,7 @@
     "countries": [],
     "birthplace": null,
     "height_cm": null,
-    "image": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carmela%20Chiacchio%20%282008%29.png",
     "wikipedia": null,
     "wikidata_url": "http://www.wikidata.org/entity/Q138348257"
   },
@@ -69711,7 +69706,7 @@
   {
     "id": "Q139470918",
     "name": "Q139470918",
-    "date_of_birth": null,
+    "date_of_birth": "1994-03-20",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -72871,7 +72866,7 @@
     "id": "Q140180488",
     "name": "Q140180488",
     "date_of_birth": null,
-    "date_of_death": null,
+    "date_of_death": "1998-10-04",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -73196,7 +73191,7 @@
     "id": "Q140180573",
     "name": "Q140180573",
     "date_of_birth": null,
-    "date_of_death": null,
+    "date_of_death": "1998-12-08",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -80553,6 +80548,32 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q141568913"
   },
   {
+    "id": "Q141575243",
+    "name": "Nurselen Yalgettekin",
+    "date_of_birth": "2004-05-28",
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Nurselen_Yalgettekin",
+    "wikidata_url": "http://www.wikidata.org/entity/Q141575243"
+  },
+  {
+    "id": "Q141579663",
+    "name": "Havvanur Kethüda",
+    "date_of_birth": "2007-01-01",
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Havvanur_Keth%C3%BCda",
+    "wikidata_url": "http://www.wikidata.org/entity/Q141579663"
+  },
+  {
     "id": "Q14158054",
     "name": "Mario González",
     "date_of_birth": "1901-09-08",
@@ -80564,6 +80585,61 @@
     "image": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Mario_Gonz%C3%A1lez_(Uruguayan_boxer)",
     "wikidata_url": "http://www.wikidata.org/entity/Q14158054"
+  },
+  {
+    "id": "Q141582841",
+    "name": "Gin Sian Maung",
+    "date_of_birth": "2005-02-12",
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Gin_Sian_Maung",
+    "wikidata_url": "http://www.wikidata.org/entity/Q141582841",
+    "record": {
+      "wins": 1,
+      "losses": 1,
+      "draws": null,
+      "ko_wins": null,
+      "total": null,
+      "no_contests": 0
+    }
+  },
+  {
+    "id": "Q141591490",
+    "name": "Connor Campbell",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": null,
+    "wikidata_url": "http://www.wikidata.org/entity/Q141591490"
+  },
+  {
+    "id": "Q141595211",
+    "name": "Dinny Powell",
+    "date_of_birth": "1932-07-27",
+    "date_of_death": "2023-06-06",
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Dinny_Powell",
+    "wikidata_url": "http://www.wikidata.org/entity/Q141595211",
+    "record": {
+      "wins": 6,
+      "losses": 13,
+      "draws": 3,
+      "ko_wins": 1,
+      "total": 22,
+      "no_contests": 0
+    }
   },
   {
     "id": "Q14159716",
@@ -80585,6 +80661,243 @@
       "total": 51,
       "no_contests": 1
     }
+  },
+  {
+    "id": "Q141603397",
+    "name": "Kharkhüügiin Bilgüünsaikhan",
+    "date_of_birth": "2004-06-06",
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Kharkh%C3%BC%C3%BCgiin_Bilg%C3%BC%C3%BCnsaikhan",
+    "wikidata_url": "http://www.wikidata.org/entity/Q141603397"
+  },
+  {
+    "id": "Q141603408",
+    "name": "Dilara Sak",
+    "date_of_birth": "2006-02-14",
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Dilara_Sak",
+    "wikidata_url": "http://www.wikidata.org/entity/Q141603408"
+  },
+  {
+    "id": "Q141605180",
+    "name": "Monica Gentili",
+    "date_of_birth": "1977-08-12",
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Monica_Gentili",
+    "wikidata_url": "http://www.wikidata.org/entity/Q141605180",
+    "record": {
+      "wins": 6,
+      "losses": 12,
+      "draws": null,
+      "ko_wins": 1,
+      "total": 18,
+      "no_contests": null
+    }
+  },
+  {
+    "id": "Q141606263",
+    "name": "Sude Nur Aslan",
+    "date_of_birth": "2007-01-01",
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Sude_Nur_Aslan",
+    "wikidata_url": "http://www.wikidata.org/entity/Q141606263"
+  },
+  {
+    "id": "Q141611263",
+    "name": "Gilbert Cohen",
+    "date_of_birth": "1948-10-12",
+    "date_of_death": "1999-06-14",
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": 166,
+    "image": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Gilbert_Cohen",
+    "wikidata_url": "http://www.wikidata.org/entity/Q141611263",
+    "record": {
+      "wins": 20,
+      "losses": 4,
+      "draws": 1,
+      "ko_wins": 8,
+      "total": 25,
+      "no_contests": null
+    }
+  },
+  {
+    "id": "Q141611859",
+    "name": "Ewart Marín",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": null,
+    "wikidata_url": "http://www.wikidata.org/entity/Q141611859"
+  },
+  {
+    "id": "Q141612660",
+    "name": "Antonio Grabić",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": null,
+    "wikidata_url": "http://www.wikidata.org/entity/Q141612660"
+  },
+  {
+    "id": "Q141612665",
+    "name": "Hugo Grau",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": null,
+    "wikidata_url": "http://www.wikidata.org/entity/Q141612665"
+  },
+  {
+    "id": "Q141620713",
+    "name": "Pavlo Iliusha",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": null,
+    "wikidata_url": "http://www.wikidata.org/entity/Q141620713"
+  },
+  {
+    "id": "Q141620719",
+    "name": "Cheerav Ashalayev",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": null,
+    "wikidata_url": "http://www.wikidata.org/entity/Q141620719"
+  },
+  {
+    "id": "Q141621615",
+    "name": "C. A. Kuttappa",
+    "date_of_birth": "1989-01-01",
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/C._A._Kuttappa",
+    "wikidata_url": "http://www.wikidata.org/entity/Q141621615"
+  },
+  {
+    "id": "Q141622454",
+    "name": "Q141622454",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": null,
+    "wikidata_url": "http://www.wikidata.org/entity/Q141622454"
+  },
+  {
+    "id": "Q141623708",
+    "name": "Natnicha Chongprongklang",
+    "date_of_birth": "2004-02-08",
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Natnicha_Chongprongklang",
+    "wikidata_url": "http://www.wikidata.org/entity/Q141623708"
+  },
+  {
+    "id": "Q141626968",
+    "name": "Oladimeji Shittu",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": null,
+    "wikidata_url": "http://www.wikidata.org/entity/Q141626968"
+  },
+  {
+    "id": "Q141627778",
+    "name": "Aigon of Croton",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": null,
+    "wikidata_url": "http://www.wikidata.org/entity/Q141627778"
+  },
+  {
+    "id": "Q141627815",
+    "name": "Dmitri Karmánov",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": null,
+    "wikidata_url": "http://www.wikidata.org/entity/Q141627815"
+  },
+  {
+    "id": "Q141636508",
+    "name": "Rui Yamaguchi",
+    "date_of_birth": "2004-05-12",
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Rui_Yamaguchi",
+    "wikidata_url": "http://www.wikidata.org/entity/Q141636508"
   },
   {
     "id": "Q1418468",
@@ -84456,7 +84769,7 @@
   {
     "id": "Q15822852",
     "name": "Karl Ameisbichler",
-    "date_of_birth": "1927-01-01",
+    "date_of_birth": "1927-03-25",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -84785,7 +85098,7 @@
     "id": "Q15848013",
     "name": "Soungalo Bagayogo",
     "date_of_birth": "1941-06-15",
-    "date_of_death": "2012-01-01",
+    "date_of_death": "2012-05-10",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -84875,7 +85188,7 @@
   {
     "id": "Q15856205",
     "name": "İlhan Güler",
-    "date_of_birth": "2000-01-01",
+    "date_of_birth": "1966-01-01",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -84927,7 +85240,7 @@
   {
     "id": "Q15857487",
     "name": "Emir Ahmatović",
-    "date_of_birth": "1987-01-01",
+    "date_of_birth": "1987-01-16",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -85013,7 +85326,7 @@
   {
     "id": "Q15867614",
     "name": "Rajko Miljić",
-    "date_of_birth": "2000-01-01",
+    "date_of_birth": "1944-06-18",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -85202,7 +85515,7 @@
     "id": "Q1595929",
     "name": "Hein Domgörgen",
     "date_of_birth": "1898-12-30",
-    "date_of_death": "1972-04-01",
+    "date_of_death": "1972-04-02",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -88086,7 +88399,7 @@
     "id": "Q16079043",
     "name": "Wilhelm Stasch",
     "date_of_birth": "1911-03-12",
-    "date_of_death": "1989-08-01",
+    "date_of_death": "1989-08-04",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -97789,7 +98102,7 @@
   {
     "id": "Q16321144",
     "name": "Werner Kastor",
-    "date_of_birth": "2000-01-01",
+    "date_of_birth": "1943-10-28",
     "date_of_death": "2019-05-02",
     "gender": null,
     "countries": [],
@@ -103066,7 +103379,7 @@
     "id": "Q1704736",
     "name": "Josef Hamberger",
     "date_of_birth": "1930-07-20",
-    "date_of_death": "1988-01-01",
+    "date_of_death": "1988-08-28",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -103223,7 +103536,7 @@
     "id": "Q1709877",
     "name": "Walter Neusel",
     "date_of_birth": "1907-11-25",
-    "date_of_death": "1964-10-03",
+    "date_of_death": "1964-10-08",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -103642,7 +103955,7 @@
   {
     "id": "Q1717025",
     "name": "Jürgen Blin",
-    "date_of_birth": "1943-04-07",
+    "date_of_birth": "1943-04-24",
     "date_of_death": "2022-05-07",
     "gender": null,
     "countries": [],
@@ -104316,7 +104629,7 @@
   {
     "id": "Q1727111",
     "name": "Wolfgang Penzler",
-    "date_of_birth": "1943-01-01",
+    "date_of_birth": "1943-07-10",
     "date_of_death": "2022-05-01",
     "gender": null,
     "countries": [],
@@ -104478,7 +104791,7 @@
   {
     "id": "Q17326608",
     "name": "Tomasz Lempart",
-    "date_of_birth": "1915-01-01",
+    "date_of_birth": "1915-03-08",
     "date_of_death": "2005-01-01",
     "gender": null,
     "countries": [],
@@ -105099,7 +105412,7 @@
   {
     "id": "Q17425428",
     "name": "Sarah Scheurich",
-    "date_of_birth": "1993-01-01",
+    "date_of_birth": "1993-10-01",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -110924,7 +111237,7 @@
   {
     "id": "Q19346309",
     "name": "Modiradilo Healer",
-    "date_of_birth": "1970-01-01",
+    "date_of_birth": "1970-07-19",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -112574,7 +112887,7 @@
   {
     "id": "Q19721035",
     "name": "Davide Faraci",
-    "date_of_birth": "1991-01-01",
+    "date_of_birth": "1991-09-05",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -118119,7 +118432,7 @@
   {
     "id": "Q20028785",
     "name": "Niall Farrell",
-    "date_of_birth": "1997-01-01",
+    "date_of_birth": "1997-09-06",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -118457,7 +118770,7 @@
   {
     "id": "Q20029128",
     "name": "Javier Ibáñez",
-    "date_of_birth": "1996-01-01",
+    "date_of_birth": "1996-07-14",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -125627,7 +125940,7 @@
   {
     "id": "Q20752959",
     "name": "Zaal Kvachatadze",
-    "date_of_birth": "2000-01-01",
+    "date_of_birth": "1990-08-17",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -126911,7 +127224,7 @@
   {
     "id": "Q21033043",
     "name": "Kenan Öner",
-    "date_of_birth": "2000-01-01",
+    "date_of_birth": "1973-01-01",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -127351,7 +127664,7 @@
     "id": "Q21063725",
     "name": "James Iahuat",
     "date_of_birth": "1959-05-14",
-    "date_of_death": "2021-01-01",
+    "date_of_death": "2021-06-20",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -129582,7 +129895,7 @@
     "id": "Q21529431",
     "name": "Eddie Martin",
     "date_of_birth": "1903-02-26",
-    "date_of_death": "1966-08-27",
+    "date_of_death": "1968-08-27",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -129603,7 +129916,7 @@
     "id": "Q21529435",
     "name": "Q21529435",
     "date_of_birth": "1915-02-02",
-    "date_of_death": "1984-01-01",
+    "date_of_death": "1984-07-01",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -129974,7 +130287,7 @@
     "id": "Q2163306",
     "name": "Rolf Caroli",
     "date_of_birth": "1933-12-23",
-    "date_of_death": "2007-01-01",
+    "date_of_death": "2007-06-10",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -135152,7 +135465,7 @@
   {
     "id": "Q23701441",
     "name": "Amon Kotey",
-    "date_of_birth": "2000-01-01",
+    "date_of_birth": "1949-01-16",
     "date_of_death": "2010-05-10",
     "gender": null,
     "countries": [],
@@ -137710,7 +138023,7 @@
     "id": "Q2437071",
     "name": "Jorge Kahwagi",
     "date_of_birth": "1968-05-28",
-    "date_of_death": null,
+    "date_of_death": "2026-09-30",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -137897,7 +138210,7 @@
     "gender": null,
     "countries": [],
     "birthplace": null,
-    "height_cm": 676767676,
+    "height_cm": 188,
     "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Logan%20Paul%2C%20WrestleMania%20XL%20in%202024%201%20%28cropped%29.jpg",
     "wikipedia": "https://en.wikipedia.org/wiki/Logan_Paul",
     "wikidata_url": "http://www.wikidata.org/entity/Q24451685"
@@ -141272,7 +141585,7 @@
   {
     "id": "Q260409",
     "name": "Payao Poontarat",
-    "date_of_birth": "1957-10-18",
+    "date_of_birth": "1956-10-15",
     "date_of_death": "2006-08-13",
     "gender": null,
     "countries": [],
@@ -145504,11 +145817,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Takuma_Inoue",
     "wikidata_url": "http://www.wikidata.org/entity/Q27139351",
     "record": {
-      "wins": 22,
+      "wins": 23,
       "losses": 2,
       "draws": null,
       "ko_wins": 5,
-      "total": 24,
+      "total": 25,
       "no_contests": null
     }
   },
@@ -147690,7 +148003,7 @@
     "countries": [],
     "birthplace": null,
     "height_cm": null,
-    "image": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vasile%20C%C3%AEtea%20at%20the%20100th%20Anniversary%20of%20Greater%20Romania%2002%20%28cropped%29.jpg",
     "wikipedia": null,
     "wikidata_url": "http://www.wikidata.org/entity/Q28085981"
   },
@@ -152938,7 +153251,7 @@
     "id": "Q2991671",
     "name": "William Michaels",
     "date_of_birth": "1876-07-13",
-    "date_of_death": "1934-01-01",
+    "date_of_death": "1934-08-24",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -156805,7 +157118,7 @@
     "id": "Q3101790",
     "name": "George Nichols",
     "date_of_birth": "1907-07-10",
-    "date_of_death": "1986-01-01",
+    "date_of_death": "1986-09-01",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -157361,11 +157674,11 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q31201258",
     "record": {
       "wins": 6,
-      "losses": 0,
-      "draws": 0,
+      "losses": null,
+      "draws": null,
       "ko_wins": 4,
       "total": 6,
-      "no_contests": 0
+      "no_contests": null
     }
   },
   {
@@ -161601,7 +161914,7 @@
   {
     "id": "Q329577",
     "name": "Victor McLaglen",
-    "date_of_birth": "1886-12-10",
+    "date_of_birth": "1886-12-11",
     "date_of_death": "1959-11-07",
     "gender": null,
     "countries": [],
@@ -164763,7 +165076,7 @@
     "id": "Q3428325",
     "name": "Anatoli Bulakov",
     "date_of_birth": "1930-02-03",
-    "date_of_death": "1994-01-01",
+    "date_of_death": "1994-09-19",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -167544,7 +167857,7 @@
   },
   {
     "id": "Q3571385",
-    "name": "Q3571385",
+    "name": "Poli Díaz",
     "date_of_birth": "1967-11-21",
     "date_of_death": null,
     "gender": null,
@@ -167953,8 +168266,8 @@
   {
     "id": "Q360730",
     "name": "Lev Mukhin",
-    "date_of_birth": "1936-01-01",
-    "date_of_death": "1977-01-01",
+    "date_of_birth": "1936-10-15",
+    "date_of_death": "1977-04-25",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -168366,7 +168679,7 @@
     "countries": [],
     "birthplace": null,
     "height_cm": null,
-    "image": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marino%20Girolami.jpg",
     "wikipedia": "https://en.wikipedia.org/wiki/Marino_Girolami",
     "wikidata_url": "http://www.wikidata.org/entity/Q364681"
   },
@@ -169603,7 +169916,7 @@
     "id": "Q3734292",
     "name": "Reggie Gross",
     "date_of_birth": "1962-01-01",
-    "date_of_death": null,
+    "date_of_death": "2025-10-16",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -170022,7 +170335,7 @@
     "id": "Q3741784",
     "name": "Szapsel Rotholc",
     "date_of_birth": "1913-07-02",
-    "date_of_death": "1996-01-01",
+    "date_of_death": "1996-02-29",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -172554,7 +172867,7 @@
   {
     "id": "Q38947237",
     "name": "Tserendorj Amarjargol",
-    "date_of_birth": "1964-01-01",
+    "date_of_birth": "1964-06-25",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -173090,7 +173403,7 @@
     "id": "Q3930615",
     "name": "Ray Close",
     "date_of_birth": "1969-01-20",
-    "date_of_death": null,
+    "date_of_death": "2026-10-02",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -174511,7 +174824,7 @@
   {
     "id": "Q39980506",
     "name": "Nyamaagiin Altankhuyag",
-    "date_of_birth": "1970-01-01",
+    "date_of_birth": "1970-09-27",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -174733,7 +175046,7 @@
   {
     "id": "Q40225612",
     "name": "Sodnomdarjaagiin Altansükh",
-    "date_of_birth": "1969-01-01",
+    "date_of_birth": "1969-06-02",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -177029,7 +177342,7 @@
   {
     "id": "Q41693275",
     "name": "Tseyen-Oidovyn Tserennyam",
-    "date_of_birth": "1968-01-01",
+    "date_of_birth": "1968-11-27",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -179384,7 +179697,7 @@
     "id": "Q43059056",
     "name": "Carlo Russolillo",
     "date_of_birth": "1957-03-17",
-    "date_of_death": "2026-03-01",
+    "date_of_death": "2026-03-24",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -185980,12 +186293,12 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Alan_Sanchez_(boxer)",
     "wikidata_url": "http://www.wikidata.org/entity/Q4707703",
     "record": {
-      "wins": 21,
-      "losses": 5,
+      "wins": 24,
+      "losses": 8,
       "draws": 1,
       "ko_wins": 10,
-      "total": 27,
-      "no_contests": 0
+      "total": 33,
+      "no_contests": null
     }
   },
   {
@@ -187526,7 +187839,7 @@
   {
     "id": "Q4733746",
     "name": "Almedin Fetahović",
-    "date_of_birth": "1964-01-01",
+    "date_of_birth": "1964-05-19",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -191410,12 +191723,12 @@
     "id": "Q487909",
     "name": "Anatoly Kashpirovsky",
     "date_of_birth": "1939-08-11",
-    "date_of_death": null,
+    "date_of_death": "2026-10-03",
     "gender": null,
     "countries": [],
     "birthplace": null,
     "height_cm": null,
-    "image": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%B0%D1%88%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-%D0%90%D0%B1%D0%B0%D0%BA%D0%B0%D0%BD-1%20%D1%84%D0%B5%D0%B2%D1%80%202016-%D0%92%D0%B8%D0%BA%D0%B8%20%28cropped%29.JPG",
     "wikipedia": "https://en.wikipedia.org/wiki/Anatoly_Kashpirovsky",
     "wikidata_url": "http://www.wikidata.org/entity/Q487909"
   },
@@ -195204,7 +195517,7 @@
       "losses": 10,
       "draws": 2,
       "ko_wins": 41,
-      "total": 62,
+      "total": 63,
       "no_contests": 1
     }
   },
@@ -197461,11 +197774,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Paige_Murney",
     "wikidata_url": "http://www.wikidata.org/entity/Q51244950",
     "record": {
-      "wins": 4,
+      "wins": 5,
       "losses": null,
       "draws": null,
       "ko_wins": null,
-      "total": 4,
+      "total": 5,
       "no_contests": null
     }
   },
@@ -197571,11 +197884,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Whittaker",
     "wikidata_url": "http://www.wikidata.org/entity/Q51275961",
     "record": {
-      "wins": 12,
+      "wins": 13,
       "losses": null,
       "draws": 1,
       "ko_wins": 9,
-      "total": 13,
+      "total": 14,
       "no_contests": null
     }
   },
@@ -200443,8 +200756,8 @@
   {
     "id": "Q5229723",
     "name": "Dave Rosenberg",
-    "date_of_birth": "1901-01-01",
-    "date_of_death": "1979-01-01",
+    "date_of_birth": "1901-05-15",
+    "date_of_death": "1979-02-01",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -205816,7 +206129,7 @@
     "id": "Q5444510",
     "name": "Fernand Delarge",
     "date_of_birth": "1903-04-05",
-    "date_of_death": "1960-09-01",
+    "date_of_death": "1960-09-07",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -206738,7 +207051,7 @@
   {
     "id": "Q54861131",
     "name": "Hugh Dyer",
-    "date_of_birth": "1961-01-01",
+    "date_of_birth": "1961-05-26",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -206761,11 +207074,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Bilal_Fawaz",
     "wikidata_url": "http://www.wikidata.org/entity/Q54861156",
     "record": {
-      "wins": 12,
+      "wins": 13,
       "losses": 1,
       "draws": 1,
-      "ko_wins": 4,
-      "total": 14,
+      "ko_wins": 5,
+      "total": 15,
       "no_contests": null
     }
   },
@@ -207322,7 +207635,7 @@
     "id": "Q5492745",
     "name": "Franz Dübbers",
     "date_of_birth": "1908-04-08",
-    "date_of_death": "1987-01-01",
+    "date_of_death": "1987-08-24",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -208973,8 +209286,8 @@
   {
     "id": "Q5538520",
     "name": "George Dick",
-    "date_of_birth": "1921-01-01",
-    "date_of_death": "1960-01-01",
+    "date_of_birth": "1921-06-12",
+    "date_of_death": "1960-09-07",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -209783,7 +210096,7 @@
     "birthplace": null,
     "height_cm": null,
     "image": null,
-    "wikipedia": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Ed_(Street_Fighter)",
     "wikidata_url": "http://www.wikidata.org/entity/Q55522339"
   },
   {
@@ -210374,7 +210687,7 @@
   {
     "id": "Q55649895",
     "name": "Jacko Razon",
-    "date_of_birth": "1921-01-01",
+    "date_of_birth": "1921-02-02",
     "date_of_death": "1997-07-09",
     "gender": null,
     "countries": [],
@@ -210957,7 +211270,7 @@
     "id": "Q558341",
     "name": "Gheorghe Negrea",
     "date_of_birth": "1934-04-21",
-    "date_of_death": "2000-01-01",
+    "date_of_death": "2000-09-23",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -211139,7 +211452,7 @@
   {
     "id": "Q55955928",
     "name": "Barrington Cambridge",
-    "date_of_birth": "1957-01-01",
+    "date_of_birth": "1957-07-15",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -211225,7 +211538,7 @@
   {
     "id": "Q55955953",
     "name": "Serdamba Batsuk",
-    "date_of_birth": "1955-01-01",
+    "date_of_birth": "1955-10-17",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -211831,7 +212144,7 @@
   {
     "id": "Q56248663",
     "name": "Dhanraj Singh",
-    "date_of_birth": "1947-01-01",
+    "date_of_birth": "1947-08-26",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -218407,7 +218720,7 @@
     "id": "Q59179635",
     "name": "Bernard Schröter",
     "date_of_birth": "1934-04-10",
-    "date_of_death": "2015-01-01",
+    "date_of_death": "2015-10-22",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -222142,7 +222455,7 @@
   {
     "id": "Q59552147",
     "name": "Masataka Taniguchi",
-    "date_of_birth": "1994-01-01",
+    "date_of_birth": "1994-01-19",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -224427,7 +224740,7 @@
     "id": "Q59656376",
     "name": "Ali Kılıçoğlu",
     "date_of_birth": "1944-03-01",
-    "date_of_death": null,
+    "date_of_death": "2026-09-01",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -227545,7 +227858,7 @@
     "id": "Q60194651",
     "name": "Athanasios Iliadis",
     "date_of_birth": "1952-08-23",
-    "date_of_death": null,
+    "date_of_death": "2026-09-01",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -234441,7 +234754,7 @@
     "id": "Q60676348",
     "name": "István Turu",
     "date_of_birth": "1962-09-25",
-    "date_of_death": "2021-02-01",
+    "date_of_death": "2021-02-15",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -244624,7 +244937,7 @@
     "id": "Q6208737",
     "name": "Joe Bowker",
     "date_of_birth": "1881-06-01",
-    "date_of_death": "1955-01-01",
+    "date_of_death": "1955-10-22",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -246047,7 +246360,7 @@
     "id": "Q6261167",
     "name": "John Treadaway",
     "date_of_birth": "1914-06-26",
-    "date_of_death": "1993-01-01",
+    "date_of_death": "1993-07-04",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -246706,7 +247019,7 @@
     "id": "Q6278391",
     "name": "Julio César Nicolari",
     "date_of_birth": "1905-03-15",
-    "date_of_death": "1977-01-01",
+    "date_of_death": "1977-11-07",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -248527,7 +248840,7 @@
   {
     "id": "Q6309319",
     "name": "Julio Gervacio",
-    "date_of_birth": "1967-10-01",
+    "date_of_birth": "1967-10-17",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -251570,7 +251883,7 @@
   {
     "id": "Q64782605",
     "name": "Seigo Yuri Akui",
-    "date_of_birth": "1995-01-01",
+    "date_of_birth": "1995-09-03",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -252107,7 +252420,7 @@
   {
     "id": "Q64899129",
     "name": "Jocelyn Gordon Whitehead",
-    "date_of_birth": "1895-01-01",
+    "date_of_birth": "1895-11-25",
     "date_of_death": "1954-07-05",
     "gender": null,
     "countries": [],
@@ -252556,7 +252869,7 @@
   {
     "id": "Q65096657",
     "name": "Michael Nevin",
-    "date_of_birth": "1998-05-01",
+    "date_of_birth": "1998-05-06",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -252582,7 +252895,7 @@
   {
     "id": "Q65096670",
     "name": "Sharafa Raman",
-    "date_of_birth": "1983-04-01",
+    "date_of_birth": "1983-04-22",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -252650,7 +252963,7 @@
   {
     "id": "Q65115097",
     "name": "Regan Buckley",
-    "date_of_birth": "1997-03-01",
+    "date_of_birth": "1997-03-05",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -253773,8 +254086,8 @@
   {
     "id": "Q6526003",
     "name": "Leonardo Gula",
-    "date_of_birth": "1914-03-06",
-    "date_of_death": "http://www",
+    "date_of_birth": "1913-07-16",
+    "date_of_death": "1989-09-10",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -255493,7 +255806,7 @@
   {
     "id": "Q66391755",
     "name": "Vergil Ortiz Jr.",
-    "date_of_birth": "1998-01-01",
+    "date_of_birth": "1998-03-25",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -256615,7 +256928,7 @@
   {
     "id": "Q667853",
     "name": "Victor Perez",
-    "date_of_birth": "1911-03-20",
+    "date_of_birth": "1911-10-18",
     "date_of_death": "1945-01-22",
     "gender": null,
     "countries": [],
@@ -256649,7 +256962,7 @@
   {
     "id": "Q66796022",
     "name": "Q66796022",
-    "date_of_birth": "1998-01-01",
+    "date_of_birth": "1998-06-06",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -257788,7 +258101,7 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q6722281",
     "record": {
       "wins": 30,
-      "losses": 7,
+      "losses": 6,
       "draws": null,
       "ko_wins": 30,
       "total": 37,
@@ -267376,7 +267689,7 @@
   {
     "id": "Q718320",
     "name": "George Finnegan",
-    "date_of_birth": "1881-09-01",
+    "date_of_birth": "1881-09-28",
     "date_of_death": "1913-02-28",
     "gender": null,
     "countries": [],
@@ -267808,7 +268121,7 @@
   {
     "id": "Q719909",
     "name": "Alexis Rubalcaba",
-    "date_of_birth": "1972-09-09",
+    "date_of_birth": "1972-09-10",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -275590,7 +275903,7 @@
   {
     "id": "Q7525401",
     "name": "Sione Vaveni Talia'uli",
-    "date_of_birth": "1966-01-01",
+    "date_of_birth": "1966-04-04",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -277530,7 +277843,7 @@
     "id": "Q773630",
     "name": "Amado Azar",
     "date_of_birth": "1913-12-31",
-    "date_of_death": "1971-01-01",
+    "date_of_death": "1971-04-11",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -277854,7 +278167,7 @@
     "id": "Q7790370",
     "name": "Thomas Hamilton-Brown",
     "date_of_birth": "1916-07-01",
-    "date_of_death": "1981-01-01",
+    "date_of_death": "1981-03-02",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -280097,7 +280410,7 @@
   {
     "id": "Q7915533",
     "name": "Vardan Zakaryan",
-    "date_of_birth": "2000-01-01",
+    "date_of_birth": "1970-11-16",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -281539,7 +281852,7 @@
     "id": "Q7996393",
     "name": "Q7996393",
     "date_of_birth": "1897-01-10",
-    "date_of_death": "1969-01-01",
+    "date_of_death": "1969-07-13",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -281894,7 +282207,7 @@
     "id": "Q8019964",
     "name": "William Walther",
     "date_of_birth": "1906-02-05",
-    "date_of_death": "http://www",
+    "date_of_death": "1992-02-01",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -288510,7 +288823,7 @@
   {
     "id": "Q91776493",
     "name": "Fritz Wiene",
-    "date_of_birth": "1916-01-01",
+    "date_of_birth": "1916-09-04",
     "date_of_death": "2003-02-01",
     "gender": null,
     "countries": [],
@@ -290368,7 +290681,7 @@
     "id": "Q93123258",
     "name": "Kurt Hombach",
     "date_of_birth": "1943-11-28",
-    "date_of_death": "2011-01-01",
+    "date_of_death": "2011-01-12",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -290847,6 +291160,19 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q9334707"
   },
   {
+    "id": "Q933481",
+    "name": "Henry Cejudo",
+    "date_of_birth": "1987-02-09",
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": 163,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Cejudo%20%2854235464255%29%20%28cropped%29.jpg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Cejudo",
+    "wikidata_url": "http://www.wikidata.org/entity/Q933481"
+  },
+  {
     "id": "Q933494",
     "name": "Robeisy Ramírez",
     "date_of_birth": "1993-12-20",
@@ -290987,7 +291313,7 @@
   {
     "id": "Q93429612",
     "name": "Melanie Fraunschiel",
-    "date_of_birth": "1985-01-01",
+    "date_of_birth": "1985-05-09",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -291908,7 +292234,7 @@
     "id": "Q9374780",
     "name": "Willi Rammo",
     "date_of_birth": "1925-07-05",
-    "date_of_death": "2009-01-01",
+    "date_of_death": "2009-08-01",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -294561,10 +294887,10 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q963043",
     "record": {
       "wins": 41,
-      "losses": 5,
+      "losses": 6,
       "draws": 1,
       "ko_wins": 22,
-      "total": 47,
+      "total": 48,
       "no_contests": null
     }
   },
@@ -295045,7 +295371,7 @@
   {
     "id": "Q96622424",
     "name": "Joshua Franco",
-    "date_of_birth": "1995-01-01",
+    "date_of_birth": "1995-10-27",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -297980,7 +298306,7 @@
   {
     "id": "Q98428784",
     "name": "Rolando Romero",
-    "date_of_birth": "1995-01-01",
+    "date_of_birth": "1995-10-14",
     "date_of_death": null,
     "gender": null,
     "countries": [],
