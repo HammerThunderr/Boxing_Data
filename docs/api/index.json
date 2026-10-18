@@ -115,6 +115,11 @@
     "countries": []
   },
   {
+    "id": "Q100881324",
+    "name": "Austin McBroom",
+    "countries": []
+  },
+  {
     "id": "Q100918727",
     "name": "Alex Dilmaghani",
     "countries": []
@@ -8017,11 +8022,6 @@
   {
     "id": "Q115925",
     "name": "Harold Gomes",
-    "countries": []
-  },
-  {
-    "id": "Q115925926",
-    "name": "Shavkatdzhon Rakhimov",
     "countries": []
   },
   {
@@ -16620,6 +16620,11 @@
     "countries": []
   },
   {
+    "id": "Q130248765",
+    "name": "Jevgenijs Aleksejevs",
+    "countries": []
+  },
+  {
     "id": "Q13024924",
     "name": "Q13024924",
     "countries": []
@@ -23150,23 +23155,8 @@
     "countries": []
   },
   {
-    "id": "Q137705045",
-    "name": "Ana Esteche",
-    "countries": []
-  },
-  {
     "id": "Q137705096",
     "name": "Marisa Gabriela Núñez",
-    "countries": []
-  },
-  {
-    "id": "Q137705098",
-    "name": "Adela Celeste Peralta",
-    "countries": []
-  },
-  {
-    "id": "Q137705104",
-    "name": "Dahianna Santana",
     "countries": []
   },
   {
@@ -27845,11 +27835,6 @@
     "countries": []
   },
   {
-    "id": "Q141612660",
-    "name": "Antonio Grabić",
-    "countries": []
-  },
-  {
     "id": "Q141612665",
     "name": "Hugo Grau",
     "countries": []
@@ -27955,8 +27940,63 @@
     "countries": []
   },
   {
+    "id": "Q141694810",
+    "name": "Alimardon Dostanov",
+    "countries": []
+  },
+  {
+    "id": "Q141699972",
+    "name": "Frank Madole",
+    "countries": []
+  },
+  {
+    "id": "Q141707817",
+    "name": "Sergio Mendoza (boxer)",
+    "countries": []
+  },
+  {
+    "id": "Q141723970",
+    "name": "Amir Esmaeili",
+    "countries": []
+  },
+  {
+    "id": "Q141727614",
+    "name": "Q141727614",
+    "countries": []
+  },
+  {
+    "id": "Q141727788",
+    "name": "Q141727788",
+    "countries": []
+  },
+  {
+    "id": "Q141737320",
+    "name": "Plinio Cruz",
+    "countries": []
+  },
+  {
+    "id": "Q141745659",
+    "name": "Justin Ibarrola",
+    "countries": []
+  },
+  {
+    "id": "Q141749856",
+    "name": "Jugurtha Ait Bekka",
+    "countries": []
+  },
+  {
+    "id": "Q141761480",
+    "name": "Daisy Bamberger",
+    "countries": []
+  },
+  {
     "id": "Q1418468",
     "name": "Robey Leibbrandt",
+    "countries": []
+  },
+  {
+    "id": "Q14191086",
+    "name": "Sergio Pettis",
     "countries": []
   },
   {
@@ -31036,7 +31076,7 @@
   },
   {
     "id": "Q16140479",
-    "name": "Q16140479",
+    "name": "Kawana Norikazu",
     "countries": []
   },
   {
@@ -39041,7 +39081,7 @@
   },
   {
     "id": "Q198341",
-    "name": "Jorge Castro",
+    "name": "Jorge Fernando Castro",
     "countries": []
   },
   {

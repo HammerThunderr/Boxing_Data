@@ -387,6 +387,19 @@
     }
   },
   {
+    "id": "Q100881324",
+    "name": "Austin McBroom",
+    "date_of_birth": "1992-05-20",
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": null,
+    "wikidata_url": "http://www.wikidata.org/entity/Q100881324"
+  },
+  {
     "id": "Q100918727",
     "name": "Alex Dilmaghani",
     "date_of_birth": "1991-07-29",
@@ -774,10 +787,10 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q102218789",
     "record": {
       "wins": 20,
-      "losses": 1,
+      "losses": 2,
       "draws": 1,
       "ko_wins": 19,
-      "total": 22,
+      "total": 23,
       "no_contests": null
     }
   },
@@ -5240,7 +5253,7 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q107335110",
     "record": {
       "wins": 1,
-      "losses": 2,
+      "losses": 1,
       "draws": null,
       "ko_wins": null,
       "total": null,
@@ -8210,7 +8223,7 @@
     "countries": [],
     "birthplace": null,
     "height_cm": null,
-    "image": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Uwel%20Hernandez%20Deutscher%20Meister%202020.jpg",
     "wikipedia": null,
     "wikidata_url": "http://www.wikidata.org/entity/Q108884584"
   },
@@ -8445,7 +8458,7 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q109203199",
     "record": {
       "wins": 13,
-      "losses": 2,
+      "losses": 3,
       "draws": 1,
       "ko_wins": 5,
       "total": 17,
@@ -11547,7 +11560,7 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q110703183",
     "record": {
       "wins": 26,
-      "losses": 8,
+      "losses": 9,
       "draws": 2,
       "ko_wins": 11,
       "total": 27,
@@ -11886,11 +11899,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Sebastian_Fundora",
     "wikidata_url": "http://www.wikidata.org/entity/Q110977051",
     "record": {
-      "wins": 24,
+      "wins": 25,
       "losses": 1,
       "draws": 1,
-      "ko_wins": 15,
-      "total": 26,
+      "ko_wins": 17,
+      "total": 27,
       "no_contests": null
     }
   },
@@ -14930,7 +14943,7 @@
     "birthplace": null,
     "height_cm": null,
     "image": null,
-    "wikipedia": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Hadjila_Khelif",
     "wikidata_url": "http://www.wikidata.org/entity/Q112872407"
   },
   {
@@ -16566,8 +16579,16 @@
     "birthplace": null,
     "height_cm": null,
     "image": null,
-    "wikipedia": null,
-    "wikidata_url": "http://www.wikidata.org/entity/Q11316618"
+    "wikipedia": "https://en.wikipedia.org/wiki/Dahianna_Santana",
+    "wikidata_url": "http://www.wikidata.org/entity/Q11316618",
+    "record": {
+      "wins": 41,
+      "losses": 15,
+      "draws": null,
+      "ko_wins": 17,
+      "total": 56,
+      "no_contests": null
+    }
   },
   {
     "id": "Q11316860",
@@ -24090,19 +24111,6 @@
       "total": 60,
       "no_contests": null
     }
-  },
-  {
-    "id": "Q115925926",
-    "name": "Shavkatdzhon Rakhimov",
-    "date_of_birth": "1994-08-14",
-    "date_of_death": null,
-    "gender": null,
-    "countries": [],
-    "birthplace": null,
-    "height_cm": null,
-    "image": null,
-    "wikipedia": null,
-    "wikidata_url": "http://www.wikidata.org/entity/Q115925926"
   },
   {
     "id": "Q1159277",
@@ -40142,10 +40150,10 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q125273985",
     "record": {
       "wins": 10,
-      "losses": 1,
+      "losses": 2,
       "draws": null,
       "ko_wins": 3,
-      "total": 11,
+      "total": 12,
       "no_contests": null
     }
   },
@@ -40560,11 +40568,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Joey_Canoy",
     "wikidata_url": "http://www.wikidata.org/entity/Q125400463",
     "record": {
-      "wins": 25,
+      "wins": 26,
       "losses": 5,
       "draws": 2,
       "ko_wins": 15,
-      "total": 33,
+      "total": 34,
       "no_contests": 1
     }
   },
@@ -42092,8 +42100,16 @@
     "birthplace": null,
     "height_cm": null,
     "image": null,
-    "wikipedia": null,
-    "wikidata_url": "http://www.wikidata.org/entity/Q126005326"
+    "wikipedia": "https://en.wikipedia.org/wiki/Adela_Celeste_Peralta",
+    "wikidata_url": "http://www.wikidata.org/entity/Q126005326",
+    "record": {
+      "wins": 8,
+      "losses": 2,
+      "draws": null,
+      "ko_wins": 1,
+      "total": 10,
+      "no_contests": null
+    }
   },
   {
     "id": "Q126006029",
@@ -48418,6 +48434,27 @@
     "image": null,
     "wikipedia": null,
     "wikidata_url": "http://www.wikidata.org/entity/Q13024619"
+  },
+  {
+    "id": "Q130248765",
+    "name": "Jevgenijs Aleksejevs",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jevgenijs%20Aleksejevs%202.jpg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jevgenijs_Aleksejevs",
+    "wikidata_url": "http://www.wikidata.org/entity/Q130248765",
+    "record": {
+      "wins": 19,
+      "losses": 0,
+      "draws": 0,
+      "ko_wins": 10,
+      "total": 19,
+      "no_contests": null
+    }
   },
   {
     "id": "Q13024924",
@@ -56190,11 +56227,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Melinda_Watpool",
     "wikidata_url": "http://www.wikidata.org/entity/Q134580501",
     "record": {
-      "wins": 7,
+      "wins": 9,
       "losses": 1,
       "draws": null,
-      "ko_wins": 2,
-      "total": 8,
+      "ko_wins": 4,
+      "total": 10,
       "no_contests": null
     }
   },
@@ -56441,11 +56478,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Armando_Res%C3%A9ndiz",
     "wikidata_url": "http://www.wikidata.org/entity/Q134630841",
     "record": {
-      "wins": 16,
+      "wins": 17,
       "losses": 3,
       "draws": null,
       "ko_wins": 11,
-      "total": 19,
+      "total": 20,
       "no_contests": null
     }
   },
@@ -58517,9 +58554,9 @@
     "record": {
       "wins": 12,
       "losses": null,
-      "draws": null,
+      "draws": 1,
       "ko_wins": 3,
-      "total": 12,
+      "total": 13,
       "no_contests": null
     }
   },
@@ -64564,7 +64601,7 @@
   {
     "id": "Q136735389",
     "name": "HSTikkyTokky",
-    "date_of_birth": "2002-01-01",
+    "date_of_birth": "2001-01-01",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -67185,7 +67222,7 @@
     "countries": [],
     "birthplace": null,
     "height_cm": null,
-    "image": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Khujanazar%20Nortojiev%20at%202025%20IBA%20World%20Championships.jpg",
     "wikipedia": null,
     "wikidata_url": "http://www.wikidata.org/entity/Q137513607"
   },
@@ -67902,27 +67939,6 @@
     }
   },
   {
-    "id": "Q137705045",
-    "name": "Ana Esteche",
-    "date_of_birth": "1990-09-06",
-    "date_of_death": null,
-    "gender": null,
-    "countries": [],
-    "birthplace": null,
-    "height_cm": null,
-    "image": null,
-    "wikipedia": "https://en.wikipedia.org/wiki/Ana_Esteche",
-    "wikidata_url": "http://www.wikidata.org/entity/Q137705045",
-    "record": {
-      "wins": 14,
-      "losses": 6,
-      "draws": 3,
-      "ko_wins": 2,
-      "total": 23,
-      "no_contests": null
-    }
-  },
-  {
     "id": "Q137705096",
     "name": "Marisa Gabriela Núñez",
     "date_of_birth": "1984-01-31",
@@ -67940,48 +67956,6 @@
       "draws": 3,
       "ko_wins": 1,
       "total": 24,
-      "no_contests": null
-    }
-  },
-  {
-    "id": "Q137705098",
-    "name": "Adela Celeste Peralta",
-    "date_of_birth": "1987-07-18",
-    "date_of_death": null,
-    "gender": null,
-    "countries": [],
-    "birthplace": null,
-    "height_cm": null,
-    "image": null,
-    "wikipedia": "https://en.wikipedia.org/wiki/Adela_Celeste_Peralta",
-    "wikidata_url": "http://www.wikidata.org/entity/Q137705098",
-    "record": {
-      "wins": 8,
-      "losses": 2,
-      "draws": null,
-      "ko_wins": 1,
-      "total": 10,
-      "no_contests": null
-    }
-  },
-  {
-    "id": "Q137705104",
-    "name": "Dahianna Santana",
-    "date_of_birth": "1984-11-05",
-    "date_of_death": null,
-    "gender": null,
-    "countries": [],
-    "birthplace": null,
-    "height_cm": null,
-    "image": null,
-    "wikipedia": "https://en.wikipedia.org/wiki/Dahianna_Santana",
-    "wikidata_url": "http://www.wikidata.org/entity/Q137705104",
-    "record": {
-      "wins": 41,
-      "losses": 15,
-      "draws": null,
-      "ko_wins": 17,
-      "total": 56,
       "no_contests": null
     }
   },
@@ -68584,7 +68558,7 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q138495392",
     "record": {
       "wins": 10,
-      "losses": null,
+      "losses": 1,
       "draws": null,
       "ko_wins": 3,
       "total": 10,
@@ -70238,11 +70212,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Kajetan_Kalinowski",
     "wikidata_url": "http://www.wikidata.org/entity/Q139980723",
     "record": {
-      "wins": 12,
+      "wins": 13,
       "losses": 1,
       "draws": 0,
       "ko_wins": 7,
-      "total": 13,
+      "total": 14,
       "no_contests": 0
     }
   },
@@ -72333,7 +72307,7 @@
     "id": "Q140180399",
     "name": "Q140180399",
     "date_of_birth": null,
-    "date_of_death": null,
+    "date_of_death": "2019-01-03",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -73282,7 +73256,7 @@
     "id": "Q140180593",
     "name": "Q140180593",
     "date_of_birth": null,
-    "date_of_death": null,
+    "date_of_death": "2016-06-29",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -80749,19 +80723,6 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q141611859"
   },
   {
-    "id": "Q141612660",
-    "name": "Antonio Grabić",
-    "date_of_birth": null,
-    "date_of_death": null,
-    "gender": null,
-    "countries": [],
-    "birthplace": null,
-    "height_cm": null,
-    "image": null,
-    "wikipedia": null,
-    "wikidata_url": "http://www.wikidata.org/entity/Q141612660"
-  },
-  {
     "id": "Q141612665",
     "name": "Hugo Grau",
     "date_of_birth": null,
@@ -81035,6 +80996,144 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q141677554"
   },
   {
+    "id": "Q141694810",
+    "name": "Alimardon Dostanov",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": null,
+    "wikidata_url": "http://www.wikidata.org/entity/Q141694810"
+  },
+  {
+    "id": "Q141699972",
+    "name": "Frank Madole",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Frank%20Madole%20%28portrait%20du%20boxeur%29%20-%20btv1b6927869b.jpg",
+    "wikipedia": null,
+    "wikidata_url": "http://www.wikidata.org/entity/Q141699972"
+  },
+  {
+    "id": "Q141707817",
+    "name": "Sergio Mendoza (boxer)",
+    "date_of_birth": "2000-03-28",
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Sergio_Mendoza_(boxer)",
+    "wikidata_url": "http://www.wikidata.org/entity/Q141707817",
+    "record": {
+      "wins": 28,
+      "losses": 1,
+      "draws": null,
+      "ko_wins": 24,
+      "total": 29,
+      "no_contests": null
+    }
+  },
+  {
+    "id": "Q141723970",
+    "name": "Amir Esmaeili",
+    "date_of_birth": "2006-04-08",
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": null,
+    "wikidata_url": "http://www.wikidata.org/entity/Q141723970"
+  },
+  {
+    "id": "Q141727614",
+    "name": "Q141727614",
+    "date_of_birth": "1961-07-03",
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": null,
+    "wikidata_url": "http://www.wikidata.org/entity/Q141727614"
+  },
+  {
+    "id": "Q141727788",
+    "name": "Q141727788",
+    "date_of_birth": "1992-10-08",
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": null,
+    "wikidata_url": "http://www.wikidata.org/entity/Q141727788"
+  },
+  {
+    "id": "Q141737320",
+    "name": "Plinio Cruz",
+    "date_of_birth": "1985-11-30",
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Plinio_Cruz",
+    "wikidata_url": "http://www.wikidata.org/entity/Q141737320"
+  },
+  {
+    "id": "Q141745659",
+    "name": "Justin Ibarrola",
+    "date_of_birth": "1998-05-05",
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": 168,
+    "image": null,
+    "wikipedia": null,
+    "wikidata_url": "http://www.wikidata.org/entity/Q141745659"
+  },
+  {
+    "id": "Q141749856",
+    "name": "Jugurtha Ait Bekka",
+    "date_of_birth": "1996-03-04",
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": null,
+    "wikidata_url": "http://www.wikidata.org/entity/Q141749856"
+  },
+  {
+    "id": "Q141761480",
+    "name": "Daisy Bamberger",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": null,
+    "wikidata_url": "http://www.wikidata.org/entity/Q141761480"
+  },
+  {
     "id": "Q1418468",
     "name": "Robey Leibbrandt",
     "date_of_birth": "1913-01-25",
@@ -81046,6 +81145,19 @@
     "image": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Robey_Leibbrandt",
     "wikidata_url": "http://www.wikidata.org/entity/Q1418468"
+  },
+  {
+    "id": "Q14191086",
+    "name": "Sergio Pettis",
+    "date_of_birth": "1993-08-18",
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": 66,
+    "image": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Sergio_Pettis",
+    "wikidata_url": "http://www.wikidata.org/entity/Q14191086"
   },
   {
     "id": "Q14191225",
@@ -90668,7 +90780,7 @@
   },
   {
     "id": "Q16140479",
-    "name": "Q16140479",
+    "name": "Kawana Norikazu",
     "date_of_birth": "1962-01-14",
     "date_of_death": null,
     "gender": null,
@@ -97377,8 +97489,16 @@
     "birthplace": null,
     "height_cm": null,
     "image": null,
-    "wikipedia": null,
-    "wikidata_url": "http://www.wikidata.org/entity/Q16264572"
+    "wikipedia": "https://en.wikipedia.org/wiki/Ana_Esteche",
+    "wikidata_url": "http://www.wikidata.org/entity/Q16264572",
+    "record": {
+      "wins": 14,
+      "losses": 6,
+      "draws": 3,
+      "ko_wins": 2,
+      "total": 23,
+      "no_contests": null
+    }
   },
   {
     "id": "Q16264762",
@@ -115825,14 +115945,14 @@
   },
   {
     "id": "Q198341",
-    "name": "Jorge Castro",
+    "name": "Jorge Fernando Castro",
     "date_of_birth": "1967-08-18",
-    "date_of_death": null,
+    "date_of_death": "2026-10-14",
     "gender": null,
     "countries": [],
     "birthplace": null,
-    "height_cm": null,
-    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ro%C3%B1a%20Castro.jpg",
+    "height_cm": 175,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Locomotora%20castro%20en%202018.jpg",
     "wikipedia": "https://en.wikipedia.org/wiki/Jorge_Castro_(boxer)",
     "wikidata_url": "http://www.wikidata.org/entity/Q198341",
     "record": {
@@ -116058,7 +116178,7 @@
   {
     "id": "Q19844387",
     "name": "Dudley Lister",
-    "date_of_birth": null,
+    "date_of_birth": "1899-04-01",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -129910,7 +130030,7 @@
     "id": "Q21515464",
     "name": "Jimmy Walsh",
     "date_of_birth": "1883-07-18",
-    "date_of_death": "1964-11-23",
+    "date_of_death": "1954-11-23",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -133912,11 +134032,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Bakhodir_Jalolov",
     "wikidata_url": "http://www.wikidata.org/entity/Q23060341",
     "record": {
-      "wins": 17,
+      "wins": 18,
       "losses": null,
       "draws": null,
       "ko_wins": 15,
-      "total": 17,
+      "total": 18,
       "no_contests": null
     }
   },
@@ -154002,11 +154122,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Dubois",
     "wikidata_url": "http://www.wikidata.org/entity/Q30122489",
     "record": {
-      "wins": 23,
+      "wins": 24,
       "losses": 3,
       "draws": null,
-      "ko_wins": 22,
-      "total": 26,
+      "ko_wins": 23,
+      "total": 27,
       "no_contests": null
     }
   },
@@ -161545,7 +161665,7 @@
     "id": "Q327073",
     "name": "Denis Boytsov",
     "date_of_birth": "1986-02-14",
-    "date_of_death": null,
+    "date_of_death": "2026-10-17",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -162062,7 +162182,7 @@
     "gender": null,
     "countries": [],
     "birthplace": null,
-    "height_cm": null,
+    "height_cm": 191,
     "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Victor%20McLaglen%2C%201935.jpg",
     "wikipedia": "https://en.wikipedia.org/wiki/Victor_McLaglen",
     "wikidata_url": "http://www.wikidata.org/entity/Q329577"
@@ -185349,7 +185469,7 @@
   {
     "id": "Q4669204",
     "name": "Abraham Torres",
-    "date_of_birth": "1968-01-10",
+    "date_of_birth": "1968-01-16",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -186877,7 +186997,7 @@
     "id": "Q4714629",
     "name": "Alejandro Ortuoste",
     "date_of_birth": "1931-03-17",
-    "date_of_death": null,
+    "date_of_death": "2005-05-30",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -192209,7 +192329,7 @@
   {
     "id": "Q4889981",
     "name": "Benny Goldberg",
-    "date_of_birth": "1919-12-21",
+    "date_of_birth": "1918-12-25",
     "date_of_death": "2001-09-10",
     "gender": null,
     "countries": [],
@@ -194174,11 +194294,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Bombardier_Billy_Wells",
     "wikidata_url": "http://www.wikidata.org/entity/Q4940476",
     "record": {
-      "wins": 48,
+      "wins": 37,
       "losses": 11,
       "draws": null,
-      "ko_wins": 30,
-      "total": 59,
+      "ko_wins": 34,
+      "total": 48,
       "no_contests": null
     }
   },
@@ -196851,7 +196971,7 @@
     "birthplace": null,
     "height_cm": 165,
     "image": null,
-    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Mooney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Mooney_(boxer)",
     "wikidata_url": "http://www.wikidata.org/entity/Q5081056"
   },
   {
@@ -204252,8 +204372,16 @@
     "birthplace": null,
     "height_cm": 2,
     "image": null,
-    "wikipedia": null,
-    "wikidata_url": "http://www.wikidata.org/entity/Q53543593"
+    "wikipedia": "https://en.wikipedia.org/wiki/Nessim_Max_Cohen",
+    "wikidata_url": "http://www.wikidata.org/entity/Q53543593",
+    "record": {
+      "wins": 34,
+      "losses": 10,
+      "draws": 9,
+      "ko_wins": 20,
+      "total": 53,
+      "no_contests": null
+    }
   },
   {
     "id": "Q535572",
@@ -216331,7 +216459,7 @@
     "birthplace": null,
     "height_cm": null,
     "image": null,
-    "wikipedia": "https://en.wikipedia.org/wiki/Georges_Boireau",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean_Boireau",
     "wikidata_url": "http://www.wikidata.org/entity/Q58640555"
   },
   {
@@ -219109,8 +219237,8 @@
   {
     "id": "Q59180390",
     "name": "Ralph Hosack",
-    "date_of_birth": "1935-01-01",
-    "date_of_death": null,
+    "date_of_birth": "1935-12-03",
+    "date_of_death": "2026-10-11",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -227802,7 +227930,7 @@
   {
     "id": "Q6005675",
     "name": "Matador Mamani",
-    "date_of_birth": "1978-01-01",
+    "date_of_birth": "1989-01-01",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -238069,7 +238197,7 @@
     "birthplace": null,
     "height_cm": null,
     "image": null,
-    "wikipedia": "https://en.wikipedia.org/wiki/Gy%C3%B6rgy_P%C3%A1l",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gy%C3%B6rgy_P%C3%A1l_(boxer)",
     "wikidata_url": "http://www.wikidata.org/entity/Q60735472"
   },
   {
@@ -244826,7 +244954,15 @@
     "height_cm": null,
     "image": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Jimmy_McNeece",
-    "wikidata_url": "http://www.wikidata.org/entity/Q6200819"
+    "wikidata_url": "http://www.wikidata.org/entity/Q6200819",
+    "record": {
+      "wins": 5,
+      "losses": 3,
+      "draws": null,
+      "ko_wins": null,
+      "total": null,
+      "no_contests": null
+    }
   },
   {
     "id": "Q62010214",
@@ -275271,11 +275407,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Felix_Cash",
     "wikidata_url": "http://www.wikidata.org/entity/Q74881034",
     "record": {
-      "wins": 16,
+      "wins": 17,
       "losses": 1,
       "draws": null,
-      "ko_wins": 10,
-      "total": 17,
+      "ko_wins": 11,
+      "total": 18,
       "no_contests": null
     }
   },
@@ -277105,7 +277241,15 @@
     "height_cm": null,
     "image": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Manny_Robles_III",
-    "wikidata_url": "http://www.wikidata.org/entity/Q76429416"
+    "wikidata_url": "http://www.wikidata.org/entity/Q76429416",
+    "record": {
+      "wins": 18,
+      "losses": 1,
+      "draws": null,
+      "ko_wins": 8,
+      "total": 19,
+      "no_contests": null
+    }
   },
   {
     "id": "Q7645409",
@@ -294483,10 +294627,10 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q95985958",
     "record": {
       "wins": 21,
-      "losses": 2,
+      "losses": 3,
       "draws": null,
       "ko_wins": 12,
-      "total": 23,
+      "total": 24,
       "no_contests": null
     }
   },
