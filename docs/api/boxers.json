@@ -972,11 +972,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/David_Adeleye",
     "wikidata_url": "http://www.wikidata.org/entity/Q102416132",
     "record": {
-      "wins": 14,
+      "wins": 15,
       "losses": 2,
       "draws": null,
       "ko_wins": 13,
-      "total": 16,
+      "total": 17,
       "no_contests": null
     }
   },
@@ -9059,7 +9059,7 @@
   },
   {
     "id": "Q109487140",
-    "name": "Q109487140",
+    "name": "Vladimir Ivanov",
     "date_of_birth": "1987-07-02",
     "date_of_death": null,
     "gender": null,
@@ -9085,7 +9085,7 @@
   },
   {
     "id": "Q109487187",
-    "name": "Q109487187",
+    "name": "Yaroslav Doronichev",
     "date_of_birth": "1995-07-01",
     "date_of_death": null,
     "gender": null,
@@ -9215,7 +9215,7 @@
   },
   {
     "id": "Q109487911",
-    "name": "Q109487911",
+    "name": "Anton Kadushin",
     "date_of_birth": "1981-08-25",
     "date_of_death": null,
     "gender": null,
@@ -9457,7 +9457,7 @@
   },
   {
     "id": "Q109493381",
-    "name": "Q109493381",
+    "name": "Sergey Yegorov",
     "date_of_birth": "1992-01-24",
     "date_of_death": null,
     "gender": null,
@@ -9665,7 +9665,7 @@
   },
   {
     "id": "Q109494672",
-    "name": "Q109494672",
+    "name": "Vadim Shcheblykin",
     "date_of_birth": "2000-10-23",
     "date_of_death": null,
     "gender": null,
@@ -11560,7 +11560,7 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q110703183",
     "record": {
       "wins": 26,
-      "losses": 9,
+      "losses": 10,
       "draws": 2,
       "ko_wins": 11,
       "total": 27,
@@ -14060,6 +14060,19 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q112461945"
   },
   {
+    "id": "Q112506564",
+    "name": "Zhi-Chang Li",
+    "date_of_birth": "1942-01-01",
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": null,
+    "wikidata_url": "http://www.wikidata.org/entity/Q112506564"
+  },
+  {
     "id": "Q112512824",
     "name": "Jean Michel Raynaud",
     "date_of_birth": "1966-01-01",
@@ -15705,7 +15718,7 @@
   },
   {
     "id": "Q112989467",
-    "name": "Q112989467",
+    "name": "Alexander Devyatov",
     "date_of_birth": "1998-01-06",
     "date_of_death": null,
     "gender": null,
@@ -23403,11 +23416,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Vincenzo_Gualtieri",
     "wikidata_url": "http://www.wikidata.org/entity/Q115754217",
     "record": {
-      "wins": 25,
+      "wins": 26,
       "losses": 2,
       "draws": 1,
-      "ko_wins": 8,
-      "total": 28,
+      "ko_wins": 9,
+      "total": 29,
       "no_contests": null
     }
   },
@@ -30633,7 +30646,7 @@
   {
     "id": "Q118951381",
     "name": "Djouher Benane",
-    "date_of_birth": "2002-12-31",
+    "date_of_birth": "2002-06-09",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -30642,6 +30655,19 @@
     "image": null,
     "wikipedia": null,
     "wikidata_url": "http://www.wikidata.org/entity/Q118951381"
+  },
+  {
+    "id": "Q118951462",
+    "name": "Reine Laure Ngoune",
+    "date_of_birth": "2003-04-23",
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": null,
+    "wikidata_url": "http://www.wikidata.org/entity/Q118951462"
   },
   {
     "id": "Q1189593",
@@ -31718,11 +31744,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Nishant_Dev",
     "wikidata_url": "http://www.wikidata.org/entity/Q120256557",
     "record": {
-      "wins": 6,
+      "wins": 8,
       "losses": null,
       "draws": null,
-      "ko_wins": 4,
-      "total": 6,
+      "ko_wins": 6,
+      "total": 8,
       "no_contests": null
     }
   },
@@ -32181,7 +32207,7 @@
   },
   {
     "id": "Q120280921",
-    "name": "Q120280921",
+    "name": "Igor Sviridchenkov",
     "date_of_birth": "2000-10-27",
     "date_of_death": null,
     "gender": null,
@@ -32207,7 +32233,7 @@
   },
   {
     "id": "Q120281138",
-    "name": "Q120281138",
+    "name": "Artyom Khotenov",
     "date_of_birth": null,
     "date_of_death": null,
     "gender": null,
@@ -33887,7 +33913,7 @@
     "id": "Q123054388",
     "name": "Lee Reeves",
     "date_of_birth": "1995-02-28",
-    "date_of_death": null,
+    "date_of_death": "2026-11-16",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -34412,11 +34438,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Gabriela_Fundora",
     "wikidata_url": "http://www.wikidata.org/entity/Q123155315",
     "record": {
-      "wins": 18,
+      "wins": 19,
       "losses": null,
       "draws": null,
       "ko_wins": 10,
-      "total": 19,
+      "total": 20,
       "no_contests": 1
     }
   },
@@ -37438,10 +37464,10 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q123867338",
     "record": {
       "wins": 18,
-      "losses": 4,
+      "losses": 5,
       "draws": null,
       "ko_wins": 7,
-      "total": 22,
+      "total": 23,
       "no_contests": null
     }
   },
@@ -39166,7 +39192,7 @@
   },
   {
     "id": "Q124754576",
-    "name": "Q124754576",
+    "name": "Yevgeny Zemlyakov",
     "date_of_birth": null,
     "date_of_death": null,
     "gender": null,
@@ -40693,11 +40719,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Rhiannon_Dixon",
     "wikidata_url": "http://www.wikidata.org/entity/Q125464884",
     "record": {
-      "wins": 10,
+      "wins": 11,
       "losses": 1,
       "draws": null,
       "ko_wins": 1,
-      "total": 11,
+      "total": 12,
       "no_contests": null
     }
   },
@@ -42461,7 +42487,7 @@
   {
     "id": "Q126208613",
     "name": "Adul Srisothon",
-    "date_of_birth": "1940-05-30",
+    "date_of_birth": "1940-08-30",
     "date_of_death": "1976-02-18",
     "gender": null,
     "countries": [],
@@ -44349,11 +44375,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Teremoana_Teremoana",
     "wikidata_url": "http://www.wikidata.org/entity/Q128123161",
     "record": {
-      "wins": 12,
+      "wins": 13,
       "losses": null,
       "draws": null,
-      "ko_wins": 12,
-      "total": 12,
+      "ko_wins": 13,
+      "total": 13,
       "no_contests": null
     }
   },
@@ -49406,7 +49432,7 @@
   },
   {
     "id": "Q130286632",
-    "name": "Q130286632",
+    "name": "Sergey Gorokhov",
     "date_of_birth": "1990-02-13",
     "date_of_death": null,
     "gender": null,
@@ -49863,7 +49889,15 @@
     "height_cm": null,
     "image": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Jack_Rafferty",
-    "wikidata_url": "http://www.wikidata.org/entity/Q130436750"
+    "wikidata_url": "http://www.wikidata.org/entity/Q130436750",
+    "record": {
+      "wins": 28,
+      "losses": null,
+      "draws": 1,
+      "ko_wins": 18,
+      "total": 29,
+      "no_contests": null
+    }
   },
   {
     "id": "Q13045553",
@@ -50803,7 +50837,7 @@
   },
   {
     "id": "Q131305285",
-    "name": "Q131305285",
+    "name": "Irina Avtina",
     "date_of_birth": null,
     "date_of_death": null,
     "gender": null,
@@ -50907,7 +50941,7 @@
   },
   {
     "id": "Q131305946",
-    "name": "Q131305946",
+    "name": "Yelena Babicheva",
     "date_of_birth": null,
     "date_of_death": null,
     "gender": null,
@@ -53122,11 +53156,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Bakary_Samake",
     "wikidata_url": "http://www.wikidata.org/entity/Q132851115",
     "record": {
-      "wins": 19,
+      "wins": 20,
       "losses": 1,
       "draws": null,
       "ko_wins": 11,
-      "total": 20,
+      "total": 21,
       "no_contests": null
     }
   },
@@ -53498,6 +53532,19 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q133058471"
   },
   {
+    "id": "Q133062455",
+    "name": "Q133062455",
+    "date_of_birth": "1961-01-01",
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": null,
+    "wikidata_url": "http://www.wikidata.org/entity/Q133062455"
+  },
+  {
     "id": "Q133097738",
     "name": "Eithan James",
     "date_of_birth": "2000-09-16",
@@ -53558,10 +53605,10 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q133160296",
     "record": {
       "wins": 10,
-      "losses": 1,
+      "losses": 2,
       "draws": null,
       "ko_wins": 0,
-      "total": 11,
+      "total": 12,
       "no_contests": null
     }
   },
@@ -54365,6 +54412,19 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q133517901"
   },
   {
+    "id": "Q133518016",
+    "name": "Q133518016",
+    "date_of_birth": "1968-07-27",
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": null,
+    "wikidata_url": "http://www.wikidata.org/entity/Q133518016"
+  },
+  {
     "id": "Q133538221",
     "name": "Ivan Zucco",
     "date_of_birth": "1995-10-11",
@@ -54590,6 +54650,19 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q133650954"
   },
   {
+    "id": "Q133662669",
+    "name": "Q133662669",
+    "date_of_birth": "1918-01-01",
+    "date_of_death": "2009-01-01",
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": null,
+    "wikidata_url": "http://www.wikidata.org/entity/Q133662669"
+  },
+  {
     "id": "Q133674076",
     "name": "Michaela Kotásková",
     "date_of_birth": "1991-11-01",
@@ -54784,7 +54857,7 @@
   },
   {
     "id": "Q133798018",
-    "name": "Q133798018",
+    "name": "Maria Kuchmanova",
     "date_of_birth": null,
     "date_of_death": null,
     "gender": null,
@@ -54821,11 +54894,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Kenneth_Llover",
     "wikidata_url": "http://www.wikidata.org/entity/Q133804044",
     "record": {
-      "wins": 17,
+      "wins": 18,
       "losses": 1,
       "draws": null,
-      "ko_wins": 12,
-      "total": 18,
+      "ko_wins": 13,
+      "total": 19,
       "no_contests": null
     }
   },
@@ -55978,11 +56051,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Amir_Anderson",
     "wikidata_url": "http://www.wikidata.org/entity/Q134483459",
     "record": {
-      "wins": 8,
+      "wins": 9,
       "losses": null,
       "draws": null,
-      "ko_wins": 7,
-      "total": 8,
+      "ko_wins": 8,
+      "total": 9,
       "no_contests": null
     }
   },
@@ -59713,11 +59786,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Kyosuke_Takami",
     "wikidata_url": "http://www.wikidata.org/entity/Q135510034",
     "record": {
-      "wins": 10,
+      "wins": 11,
       "losses": 1,
       "draws": null,
-      "ko_wins": 8,
-      "total": 11,
+      "ko_wins": 9,
+      "total": 12,
       "no_contests": null
     }
   },
@@ -60210,7 +60283,7 @@
   {
     "id": "Q135686440",
     "name": "Dennis Gilfeather",
-    "date_of_birth": "1936-01-01",
+    "date_of_birth": "1937-01-01",
     "date_of_death": "2013-02-01",
     "gender": null,
     "countries": [],
@@ -62885,7 +62958,7 @@
     "countries": [],
     "birthplace": null,
     "height_cm": null,
-    "image": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Photos%20taken%20at%20Zebra%20Boxing%20Club%20on%2020th%20September%202025%2009.jpg",
     "wikipedia": "https://en.wikipedia.org/wiki/Wasswa_Amir_Ssali",
     "wikidata_url": "http://www.wikidata.org/entity/Q136339212"
   },
@@ -65138,7 +65211,7 @@
   },
   {
     "id": "Q136815845",
-    "name": "Q136815845",
+    "name": "Mikhail Usov",
     "date_of_birth": null,
     "date_of_death": null,
     "gender": null,
@@ -65229,7 +65302,7 @@
   },
   {
     "id": "Q136816454",
-    "name": "Q136816454",
+    "name": "Denis Palshin",
     "date_of_birth": null,
     "date_of_death": null,
     "gender": null,
@@ -65463,7 +65536,7 @@
   },
   {
     "id": "Q136817132",
-    "name": "Q136817132",
+    "name": "Ksenia Desheulina",
     "date_of_birth": null,
     "date_of_death": null,
     "gender": null,
@@ -65476,7 +65549,7 @@
   },
   {
     "id": "Q136817133",
-    "name": "Q136817133",
+    "name": "Marina Zheleznova",
     "date_of_birth": null,
     "date_of_death": null,
     "gender": null,
@@ -65541,7 +65614,7 @@
   },
   {
     "id": "Q136817154",
-    "name": "Q136817154",
+    "name": "Anastasia Markova",
     "date_of_birth": null,
     "date_of_death": null,
     "gender": null,
@@ -66097,11 +66170,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Isabel_Rivero",
     "wikidata_url": "http://www.wikidata.org/entity/Q137177130",
     "record": {
-      "wins": 12,
+      "wins": 14,
       "losses": 3,
       "draws": 1,
       "ko_wins": 1,
-      "total": 16,
+      "total": 18,
       "no_contests": null
     }
   },
@@ -66710,7 +66783,7 @@
   },
   {
     "id": "Q137427661",
-    "name": "Q137427661",
+    "name": "Anastasia Luchkina",
     "date_of_birth": null,
     "date_of_death": null,
     "gender": null,
@@ -66762,7 +66835,7 @@
   },
   {
     "id": "Q137427667",
-    "name": "Q137427667",
+    "name": "Natalia Mezentseva",
     "date_of_birth": null,
     "date_of_death": null,
     "gender": null,
@@ -66866,7 +66939,7 @@
   },
   {
     "id": "Q137427703",
-    "name": "Q137427703",
+    "name": "Yekaterina Fedotova",
     "date_of_birth": null,
     "date_of_death": null,
     "gender": null,
@@ -66905,7 +66978,7 @@
   },
   {
     "id": "Q137427747",
-    "name": "Q137427747",
+    "name": "Ruslan Belousov",
     "date_of_birth": "1998-03-24",
     "date_of_death": null,
     "gender": null,
@@ -66970,7 +67043,7 @@
   },
   {
     "id": "Q137427759",
-    "name": "Q137427759",
+    "name": "Viktor Yermolin",
     "date_of_birth": null,
     "date_of_death": null,
     "gender": null,
@@ -67682,7 +67755,7 @@
   },
   {
     "id": "Q137584643",
-    "name": "Q137584643",
+    "name": "Ilya Kulikov",
     "date_of_birth": null,
     "date_of_death": null,
     "gender": null,
@@ -67708,7 +67781,7 @@
   },
   {
     "id": "Q137584652",
-    "name": "Q137584652",
+    "name": "Maxim Stakheyev",
     "date_of_birth": null,
     "date_of_death": null,
     "gender": null,
@@ -68865,7 +68938,7 @@
   },
   {
     "id": "Q138609538",
-    "name": "Q138609538",
+    "name": "Vitaly Potapov",
     "date_of_birth": null,
     "date_of_death": null,
     "gender": null,
@@ -69966,6 +70039,19 @@
     "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Garazi-aranburu-boxeoa%2001.jpg",
     "wikipedia": null,
     "wikidata_url": "http://www.wikidata.org/entity/Q139660126"
+  },
+  {
+    "id": "Q139666882",
+    "name": "Julio Mocoroa",
+    "date_of_birth": "1905-10-25",
+    "date_of_death": "1931-04-09",
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": null,
+    "wikidata_url": "http://www.wikidata.org/entity/Q139666882"
   },
   {
     "id": "Q139674724",
@@ -72175,9 +72261,9 @@
   },
   {
     "id": "Q140180357",
-    "name": "Q140180357",
-    "date_of_birth": null,
-    "date_of_death": null,
+    "name": "Henryk Juszczyk",
+    "date_of_birth": "1910-12-12",
+    "date_of_death": "1987-10-13",
     "gender": null,
     "countries": [],
     "birthplace": null,
@@ -77167,6 +77253,19 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q140502373"
   },
   {
+    "id": "Q140515172",
+    "name": "Q140515172",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": null,
+    "wikidata_url": "http://www.wikidata.org/entity/Q140515172"
+  },
+  {
     "id": "Q140518805",
     "name": "Nasasira Shafic",
     "date_of_birth": null,
@@ -79848,7 +79947,7 @@
     "birthplace": null,
     "height_cm": null,
     "image": null,
-    "wikipedia": "https://en.wikipedia.org/wiki/Prabtoranee_Luklampakchee",
+    "wikipedia": null,
     "wikidata_url": "http://www.wikidata.org/entity/Q141138478"
   },
   {
@@ -80479,11 +80578,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Amari_Jones",
     "wikidata_url": "http://www.wikidata.org/entity/Q141544946",
     "record": {
-      "wins": 17,
+      "wins": 18,
       "losses": null,
       "draws": null,
-      "ko_wins": 15,
-      "total": 17,
+      "ko_wins": 16,
+      "total": 18,
       "no_contests": null
     }
   },
@@ -82175,6 +82274,27 @@
     }
   },
   {
+    "id": "Q142174401",
+    "name": "Jully Poca",
+    "date_of_birth": "1994-01-01",
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Jully_Poca",
+    "wikidata_url": "http://www.wikidata.org/entity/Q142174401",
+    "record": {
+      "wins": 1,
+      "losses": 1,
+      "draws": null,
+      "ko_wins": null,
+      "total": 2,
+      "no_contests": null
+    }
+  },
+  {
     "id": "Q1422056",
     "name": "Vyacheslav Yakovlev",
     "date_of_birth": "1960-06-24",
@@ -82186,6 +82306,32 @@
     "image": null,
     "wikipedia": null,
     "wikidata_url": "http://www.wikidata.org/entity/Q1422056"
+  },
+  {
+    "id": "Q142231726",
+    "name": "Belle Gordon",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Belle%20Gordon%2C%20Lady%20Bag-Puncher%20%28Everybody%E2%80%99s%20Magazine%2C%20August%201905%29.png",
+    "wikipedia": "https://en.wikipedia.org/wiki/Belle_Gordon",
+    "wikidata_url": "http://www.wikidata.org/entity/Q142231726"
+  },
+  {
+    "id": "Q142233898",
+    "name": "Iman Amirmohammadi",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": null,
+    "wikidata_url": "http://www.wikidata.org/entity/Q142233898"
   },
   {
     "id": "Q1424256",
@@ -83202,7 +83348,7 @@
   },
   {
     "id": "Q15061608",
-    "name": "Q15061608",
+    "name": "Nikolai Khraptsov",
     "date_of_birth": "1957-05-15",
     "date_of_death": null,
     "gender": null,
@@ -83312,7 +83458,7 @@
     "gender": null,
     "countries": [],
     "birthplace": null,
-    "height_cm": null,
+    "height_cm": 172,
     "image": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Aleksandr_Artemyev_(boxer)",
     "wikidata_url": "http://www.wikidata.org/entity/Q15064131"
@@ -83332,7 +83478,7 @@
   },
   {
     "id": "Q15064292",
-    "name": "Q15064292",
+    "name": "Gennady Bannov",
     "date_of_birth": "1928-12-28",
     "date_of_death": "2017-04-16",
     "gender": null,
@@ -83910,7 +84056,7 @@
   },
   {
     "id": "Q15075880",
-    "name": "Q15075880",
+    "name": "Sergey Styopkin",
     "date_of_birth": "1978-07-16",
     "date_of_death": null,
     "gender": null,
@@ -84035,7 +84181,7 @@
   },
   {
     "id": "Q15078603",
-    "name": "Q15078603",
+    "name": "Fyodor Papazov",
     "date_of_birth": "1985-07-27",
     "date_of_death": null,
     "gender": null,
@@ -86928,6 +87074,19 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q15987693"
   },
   {
+    "id": "Q15987709",
+    "name": "Jimmie Rivera",
+    "date_of_birth": "1989-06-29",
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": 163,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jimmie%20Rivera%20at%20UFC%20Fight%20Night%20143.jpg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jimmie_Rivera",
+    "wikidata_url": "http://www.wikidata.org/entity/Q15987709"
+  },
+  {
     "id": "Q15987731",
     "name": "Sean Spencer",
     "date_of_birth": "1987-06-25",
@@ -88940,6 +89099,19 @@
       "total": 76,
       "no_contests": null
     }
+  },
+  {
+    "id": "Q16019154",
+    "name": "Mighty Striker",
+    "date_of_birth": "1930-04-01",
+    "date_of_death": "2011-02-05",
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Mighty_Striker",
+    "wikidata_url": "http://www.wikidata.org/entity/Q16019154"
   },
   {
     "id": "Q16019389",
@@ -102429,7 +102601,7 @@
   },
   {
     "id": "Q16627398",
-    "name": "Q16627398",
+    "name": "Dmitry Boliguzov",
     "date_of_birth": "1961-11-06",
     "date_of_death": null,
     "gender": null,
@@ -102885,7 +103057,7 @@
   },
   {
     "id": "Q16675887",
-    "name": "Q16675887",
+    "name": "Oleg Menshikov",
     "date_of_birth": "1960-07-29",
     "date_of_death": null,
     "gender": null,
@@ -103713,7 +103885,7 @@
     "countries": [],
     "birthplace": null,
     "height_cm": null,
-    "image": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JavierMolina.jpg",
     "wikipedia": "https://en.wikipedia.org/wiki/Javier_Molina",
     "wikidata_url": "http://www.wikidata.org/entity/Q1684234",
     "record": {
@@ -103832,11 +104004,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Lauren_Price",
     "wikidata_url": "http://www.wikidata.org/entity/Q16863591",
     "record": {
-      "wins": 10,
+      "wins": 11,
       "losses": null,
       "draws": null,
       "ko_wins": 2,
-      "total": 10,
+      "total": 11,
       "no_contests": null
     }
   },
@@ -110685,7 +110857,7 @@
   },
   {
     "id": "Q18634057",
-    "name": "Q18634057",
+    "name": "Sergey Bakulev",
     "date_of_birth": "1956-03-03",
     "date_of_death": null,
     "gender": null,
@@ -114677,11 +114849,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Adam_Kownacki",
     "wikidata_url": "http://www.wikidata.org/entity/Q19745920",
     "record": {
-      "wins": 20,
+      "wins": 21,
       "losses": 4,
       "draws": null,
       "ko_wins": 15,
-      "total": 25,
+      "total": 26,
       "no_contests": 1
     }
   },
@@ -123187,7 +123359,7 @@
   {
     "id": "Q2027588",
     "name": "Jitender Kumar",
-    "date_of_birth": "1977-01-01",
+    "date_of_birth": "1977-09-04",
     "date_of_death": null,
     "gender": null,
     "countries": [],
@@ -128478,11 +128650,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Michael_Wallisch",
     "wikidata_url": "http://www.wikidata.org/entity/Q21033046",
     "record": {
-      "wins": 23,
+      "wins": 24,
       "losses": 6,
       "draws": null,
-      "ko_wins": 16,
-      "total": 29,
+      "ko_wins": 17,
+      "total": 30,
       "no_contests": null
     }
   },
@@ -131087,6 +131259,19 @@
     "image": null,
     "wikipedia": "https://en.wikipedia.org/wiki/S%C3%A1ndor_Orb%C3%A1n",
     "wikidata_url": "http://www.wikidata.org/entity/Q21522411"
+  },
+  {
+    "id": "Q21522543",
+    "name": "Hans Häußler",
+    "date_of_birth": "1931-10-29",
+    "date_of_death": "2010-09-27",
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Poetendampferkapitaen-hans-haeussler.jpg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hans_H%C3%A4u%C3%9Fler",
+    "wikidata_url": "http://www.wikidata.org/entity/Q21522543"
   },
   {
     "id": "Q21524133",
@@ -143463,12 +143648,12 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Yuberjen_Mart%C3%ADnez",
     "wikidata_url": "http://www.wikidata.org/entity/Q26238028",
     "record": {
-      "wins": 3,
-      "losses": 0,
-      "draws": 0,
-      "ko_wins": 3,
-      "total": 3,
-      "no_contests": 0
+      "wins": 7,
+      "losses": 1,
+      "draws": null,
+      "ko_wins": 7,
+      "total": 8,
+      "no_contests": null
     }
   },
   {
@@ -152436,7 +152621,7 @@
   {
     "id": "Q2903151",
     "name": "Bill Cayton",
-    "date_of_birth": "1918-01-06",
+    "date_of_birth": "1918-06-06",
     "date_of_death": "2003-10-04",
     "gender": null,
     "countries": [],
@@ -161431,7 +161616,7 @@
   },
   {
     "id": "Q32361978",
-    "name": "Q32361978",
+    "name": "Viktoria Kuleshova",
     "date_of_birth": "1992-01-08",
     "date_of_death": null,
     "gender": null,
@@ -162961,7 +163146,7 @@
     "birthplace": null,
     "height_cm": null,
     "image": null,
-    "wikipedia": "https://en.wikipedia.org/wiki/Benjam%C3%ADn_Flores",
+    "wikipedia": "https://en.wikipedia.org/wiki/Benjam%C3%ADn_Flores_(boxer)",
     "wikidata_url": "http://www.wikidata.org/entity/Q3288326",
     "record": {
       "wins": 19,
@@ -164708,10 +164893,10 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q3350297",
     "record": {
       "wins": 31,
-      "losses": 11,
+      "losses": 15,
       "draws": null,
       "ko_wins": 21,
-      "total": 42,
+      "total": 46,
       "no_contests": null
     }
   },
@@ -169668,7 +169853,7 @@
   },
   {
     "id": "Q36153742",
-    "name": "Q36153742",
+    "name": "Nikolai Maslin",
     "date_of_birth": "1948-11-24",
     "date_of_death": null,
     "gender": null,
@@ -172117,10 +172302,10 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Sergey_Lipinets",
     "wikidata_url": "http://www.wikidata.org/entity/Q37710329",
     "record": {
-      "wins": 18,
+      "wins": 19,
       "losses": 5,
       "draws": 1,
-      "ko_wins": 13,
+      "ko_wins": 14,
       "total": 24,
       "no_contests": null
     }
@@ -177430,7 +177615,7 @@
   },
   {
     "id": "Q41186451",
-    "name": "Q41186451",
+    "name": "Nikolai Ivkin",
     "date_of_birth": "1937-07-27",
     "date_of_death": null,
     "gender": null,
@@ -177711,7 +177896,7 @@
   },
   {
     "id": "Q41199871",
-    "name": "Q41199871",
+    "name": "Alexander Chebotaryov",
     "date_of_birth": "1928-04-10",
     "date_of_death": "1994-01-01",
     "gender": null,
@@ -177802,7 +177987,7 @@
   },
   {
     "id": "Q41201453",
-    "name": "Q41201453",
+    "name": "Nikita Tomilov",
     "date_of_birth": "1989-05-25",
     "date_of_death": null,
     "gender": null,
@@ -178410,7 +178595,7 @@
   },
   {
     "id": "Q41573971",
-    "name": "Q41573971",
+    "name": "Viktor Serdyukov",
     "date_of_birth": null,
     "date_of_death": null,
     "gender": null,
@@ -179358,7 +179543,7 @@
   },
   {
     "id": "Q42296140",
-    "name": "Q42296140",
+    "name": "Alexander Shashkov",
     "date_of_birth": "1940-04-21",
     "date_of_death": "1998-01-22",
     "gender": null,
@@ -179501,7 +179686,7 @@
   },
   {
     "id": "Q42296330",
-    "name": "Q42296330",
+    "name": "Yury Leshchyov",
     "date_of_birth": "1942-02-20",
     "date_of_death": "2019-12-26",
     "gender": null,
@@ -183190,7 +183375,7 @@
   },
   {
     "id": "Q4429223",
-    "name": "Q4429223",
+    "name": "Sergey Sorokin",
     "date_of_birth": "1978-09-12",
     "date_of_death": null,
     "gender": null,
@@ -184399,7 +184584,7 @@
   },
   {
     "id": "Q4515205",
-    "name": "Q4515205",
+    "name": "Oleg Chekhov",
     "date_of_birth": "1940-07-18",
     "date_of_death": "2025-10-19",
     "gender": null,
@@ -188425,10 +188610,10 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q4718867",
     "record": {
       "wins": 21,
-      "losses": 6,
+      "losses": 7,
       "draws": 1,
       "ko_wins": 19,
-      "total": 28,
+      "total": 29,
       "no_contests": null
     }
   },
@@ -193589,7 +193774,7 @@
   },
   {
     "id": "Q48955964",
-    "name": "Q48955964",
+    "name": "Viktor Dyakov",
     "date_of_birth": "1987-10-16",
     "date_of_death": null,
     "gender": null,
@@ -219879,11 +220064,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Kieran_Molloy_(boxer)",
     "wikidata_url": "http://www.wikidata.org/entity/Q59155039",
     "record": {
-      "wins": 15,
+      "wins": 16,
       "losses": null,
       "draws": null,
-      "ko_wins": 8,
-      "total": 15,
+      "ko_wins": 9,
+      "total": 16,
       "no_contests": null
     }
   },
@@ -241150,7 +241335,7 @@
   },
   {
     "id": "Q60831138",
-    "name": "Q60831138",
+    "name": "Maria Urakova",
     "date_of_birth": "1989-01-25",
     "date_of_death": null,
     "gender": null,
@@ -243404,6 +243589,19 @@
     "image": null,
     "wikipedia": "https://en.wikipedia.org/wiki/James_Leak",
     "wikidata_url": "http://www.wikidata.org/entity/Q6137892"
+  },
+  {
+    "id": "Q6137909",
+    "name": "James Leckie",
+    "date_of_birth": "1903-10-09",
+    "date_of_death": "1982-06-25",
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jim%20Leckie%201937.jpg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jim_Leckie",
+    "wikidata_url": "http://www.wikidata.org/entity/Q6137909"
   },
   {
     "id": "Q6138378",
@@ -250730,7 +250928,7 @@
   },
   {
     "id": "Q63381577",
-    "name": "Q63381577",
+    "name": "Alexander Skvortsov",
     "date_of_birth": "1997-06-20",
     "date_of_death": null,
     "gender": null,
@@ -252712,7 +252910,7 @@
   {
     "id": "Q6450734",
     "name": "Kyar Ba Nyein",
-    "date_of_birth": "1923-11-23",
+    "date_of_birth": "1923-09-01",
     "date_of_death": "1979-07-08",
     "gender": null,
     "countries": [],
@@ -275481,10 +275679,10 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q74262422",
     "record": {
       "wins": 16,
-      "losses": 3,
+      "losses": 4,
       "draws": 1,
       "ko_wins": 11,
-      "total": 20,
+      "total": 21,
       "no_contests": null
     }
   },
@@ -278249,6 +278447,19 @@
       "total": 55,
       "no_contests": null
     }
+  },
+  {
+    "id": "Q76416229",
+    "name": "Werner Papke",
+    "date_of_birth": "1931-01-01",
+    "date_of_death": "2017-12-12",
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": null,
+    "wikidata_url": "http://www.wikidata.org/entity/Q76416229"
   },
   {
     "id": "Q76429416",
@@ -286966,7 +287177,7 @@
   },
   {
     "id": "Q85866972",
-    "name": "Q85866972",
+    "name": "Vladimir Teryoshkin",
     "date_of_birth": "1988-04-01",
     "date_of_death": null,
     "gender": null,
@@ -287112,7 +287323,7 @@
   },
   {
     "id": "Q85868423",
-    "name": "Q85868423",
+    "name": "Anastasia Shamonova",
     "date_of_birth": "2000-04-28",
     "date_of_death": null,
     "gender": null,
@@ -287495,6 +287706,19 @@
     "image": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Jim_Murphy_(boxer)",
     "wikidata_url": "http://www.wikidata.org/entity/Q87171202"
+  },
+  {
+    "id": "Q87191196",
+    "name": "Enrico Scacchia",
+    "date_of_birth": "1963-04-27",
+    "date_of_death": "2019-07-19",
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": null,
+    "wikipedia": null,
+    "wikidata_url": "http://www.wikidata.org/entity/Q87191196"
   },
   {
     "id": "Q87256524",
@@ -294181,7 +294405,7 @@
   {
     "id": "Q94135539",
     "name": "Alick Jackomos",
-    "date_of_birth": "1924-01-01",
+    "date_of_birth": "1924-03-24",
     "date_of_death": "1999-01-01",
     "gender": null,
     "countries": [],
@@ -295483,6 +295707,19 @@
     "image": null,
     "wikipedia": "https://en.wikipedia.org/wiki/Herbert_Bauch",
     "wikidata_url": "http://www.wikidata.org/entity/Q95785"
+  },
+  {
+    "id": "Q95857600",
+    "name": "Egon Stief",
+    "date_of_birth": "1906-10-22",
+    "date_of_death": "1969-04-01",
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Egon%20Stief%20im%20Boxring.jpg",
+    "wikipedia": null,
+    "wikidata_url": "http://www.wikidata.org/entity/Q95857600"
   },
   {
     "id": "Q95869434",
@@ -297582,7 +297819,7 @@
   },
   {
     "id": "Q97276898",
-    "name": "Q97276898",
+    "name": "Vitaly Kudukhov",
     "date_of_birth": "1989-09-20",
     "date_of_death": null,
     "gender": null,
@@ -299110,11 +299347,11 @@
     "wikipedia": "https://en.wikipedia.org/wiki/David_Morrell_(boxer)",
     "wikidata_url": "http://www.wikidata.org/entity/Q97932164",
     "record": {
-      "wins": 12,
+      "wins": 13,
       "losses": 2,
       "draws": null,
-      "ko_wins": 9,
-      "total": 14,
+      "ko_wins": 10,
+      "total": 15,
       "no_contests": null
     }
   },
@@ -299582,10 +299819,10 @@
     "wikidata_url": "http://www.wikidata.org/entity/Q98380810",
     "record": {
       "wins": 26,
-      "losses": null,
+      "losses": 1,
       "draws": null,
       "ko_wins": 19,
-      "total": 26,
+      "total": 27,
       "no_contests": null
     }
   },
@@ -300345,7 +300582,7 @@
   {
     "id": "Q99626053",
     "name": "Frank G Quade",
-    "date_of_birth": "1929-01-01",
+    "date_of_birth": "1929-05-21",
     "date_of_death": "2004-12-01",
     "gender": null,
     "countries": [],
@@ -300555,6 +300792,19 @@
       "total": 96,
       "no_contests": null
     }
+  },
+  {
+    "id": "Q99760783",
+    "name": "Gloria Peritore",
+    "date_of_birth": "1988-11-29",
+    "date_of_death": null,
+    "gender": null,
+    "countries": [],
+    "birthplace": null,
+    "height_cm": 162,
+    "image": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Gloria_Peritore",
+    "wikidata_url": "http://www.wikidata.org/entity/Q99760783"
   },
   {
     "id": "Q997680",
